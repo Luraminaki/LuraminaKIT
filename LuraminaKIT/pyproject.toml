@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "LuraminaKIT"
+version = "0.1.0"
+description = "Discord bot that discovers and proxies commands to modulesKIT modules"
+requires-python = ">=3.12"
+dependencies = [
+    "discord.py",
+    "aiohttp",
+    "pydantic",
+    "pydantic-settings",
+    "python-dotenv",
+    "langchain-text-splitters",
+    "psutil",
+    # 'contractsKIT' is a sibling project in this monorepo, not a portable PEP 621
+    # dependency -- install it editable alongside this package instead.
+]
+
+# Optional dependency for a future voice/music module. Pulls in PyNaCl (voice
+# encryption) via discord.py's own [voice] extra -- without it, discord.py logs
+# "voice will NOT be supported" and voice connections fail. `ffmpeg` must also be
+# present on the system PATH for actual audio playback; that's not pip-installable.
+# Install with `pip install -e .[voice]` once a voice module exists.
+[project.optional-dependencies]
+voice = [
+    "discord.py[voice]",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+LuraminaKIT = ["py.typed"]

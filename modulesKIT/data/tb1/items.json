@@ -1,0 +1,682 @@
+{
+  "Metal Ticket": {
+    "category": "Tickets",
+    "link": "https://terrabattle.fandom.com/wiki/Metal_Ticket"
+  },
+  "Fellowship Ticket": {
+    "category": "Tickets",
+    "link": "https://terrabattle.fandom.com/wiki/Fellowship_Ticket"
+  },
+  "Companion Ticket": {
+    "category": "Tickets",
+    "link": "https://terrabattle.fandom.com/wiki/Companion_Ticket"
+  },
+  "Quests": {
+    "category": "Power-up",
+    "link": "https://terrabattle.fandom.com/wiki/Quests"
+  },
+  "EXP Boost": {
+    "category": "Power-up",
+    "link": "https://terrabattle.fandom.com/wiki/EXP_Boost"
+  },
+  "Coin Boost": {
+    "category": "Power-up",
+    "link": "https://terrabattle.fandom.com/wiki/Coin_Boost"
+  },
+  "Time Extension": {
+    "category": "Power-up",
+    "link": "https://terrabattle.fandom.com/wiki/Time_Extension"
+  },
+  "Disarmer": {
+    "category": "Power-up",
+    "link": "https://terrabattle.fandom.com/wiki/Disarmer"
+  },
+  "Reinforcement Alika": {
+    "category": "Power-up",
+    "link": "https://terrabattle.fandom.com/wiki/Reinforcement_Alika"
+  },
+  "Reinforcement Gugba": {
+    "category": "Power-up",
+    "link": "https://terrabattle.fandom.com/wiki/Reinforcement_Gugba"
+  },
+  "Reinforcement Bajanna": {
+    "category": "Power-up",
+    "link": "https://terrabattle.fandom.com/wiki/Reinforcement_Bajanna"
+  },
+  "Reinforcement Zeera": {
+    "category": "Power-up",
+    "link": "https://terrabattle.fandom.com/wiki/Reinforcement_Zeera"
+  },
+  "Character": {
+    "category": "Candy",
+    "link": "https://terrabattle.fandom.com/wiki/Character"
+  },
+  "Level Candy": {
+    "category": "Candy",
+    "link": "https://terrabattle.fandom.com/wiki/Level_Candy"
+  },
+  "Level Candybox": {
+    "category": "Candy",
+    "link": "https://terrabattle.fandom.com/wiki/Level_Candybox"
+  },
+  "Skill Candy": {
+    "category": "Candy",
+    "link": "https://terrabattle.fandom.com/wiki/Skill_Candy"
+  },
+  "Skill Candybox": {
+    "category": "Candy",
+    "link": "https://terrabattle.fandom.com/wiki/Skill_Candybox"
+  },
+  "Luck Candy": {
+    "category": "Candy",
+    "link": "https://terrabattle.fandom.com/wiki/Luck_Candy"
+  },
+  "Luck Candybox": {
+    "category": "Candy",
+    "link": "https://terrabattle.fandom.com/wiki/Luck_Candybox"
+  },
+  "Mech Skill Drop": {
+    "category": "Candy",
+    "link": "https://terrabattle.fandom.com/wiki/Mech_Skill_Drop"
+  },
+  "Trading Post": {
+    "category": "Animata",
+    "link": "https://terrabattle.fandom.com/wiki/Trading_Post"
+  },
+  "Animata Core": {
+    "category": "Animata",
+    "link": "https://terrabattle.fandom.com/wiki/Animata_Core"
+  },
+  "Animata Egg": {
+    "category": "Animata",
+    "link": "https://terrabattle.fandom.com/wiki/Animata_Egg"
+  },
+  "Animata Claw": {
+    "category": "Animata",
+    "link": "https://terrabattle.fandom.com/wiki/Animata_Claw"
+  },
+  "Animata Eye": {
+    "category": "Animata",
+    "link": "https://terrabattle.fandom.com/wiki/Animata_Eye"
+  },
+  "Animata Hair": {
+    "category": "Animata",
+    "link": "https://terrabattle.fandom.com/wiki/Animata_Hair"
+  },
+  "Animata Breath": {
+    "category": "Animata",
+    "link": "https://terrabattle.fandom.com/wiki/Animata_Breath"
+  },
+  "Animata Bone": {
+    "category": "Animata",
+    "link": "https://terrabattle.fandom.com/wiki/Animata_Bone"
+  },
+  "Animata Tail": {
+    "category": "Animata",
+    "link": "https://terrabattle.fandom.com/wiki/Animata_Tail"
+  },
+  "Animata Mustache": {
+    "category": "Animata",
+    "link": "https://terrabattle.fandom.com/wiki/Animata_Mustache"
+  },
+  "Species": {
+    "category": "Species",
+    "link": "https://terrabattle.fandom.com/wiki/Species"
+  },
+  "Serenity Shoot": {
+    "category": "Species",
+    "link": "https://terrabattle.fandom.com/wiki/Serenity_Shoot"
+  },
+  "Wisdom Flower": {
+    "category": "Species",
+    "link": "https://terrabattle.fandom.com/wiki/Wisdom_Flower"
+  },
+  "Benevolent Fang": {
+    "category": "Species",
+    "link": "https://terrabattle.fandom.com/wiki/Benevolent_Fang"
+  },
+  "Tail of Insight": {
+    "category": "Species",
+    "link": "https://terrabattle.fandom.com/wiki/Tail_of_Insight"
+  },
+  "Claw of Fate": {
+    "category": "Species",
+    "link": "https://terrabattle.fandom.com/wiki/Claw_of_Fate"
+  },
+  "Pelt of Knowledge": {
+    "category": "Species",
+    "link": "https://terrabattle.fandom.com/wiki/Pelt_of_Knowledge"
+  },
+  "Forlorn Stone": {
+    "category": "Species",
+    "link": "https://terrabattle.fandom.com/wiki/Forlorn_Stone"
+  },
+  "Shell of Madness": {
+    "category": "Species",
+    "link": "https://terrabattle.fandom.com/wiki/Shell_of_Madness"
+  },
+  "Wisp of Jealousy": {
+    "category": "Species",
+    "link": "https://terrabattle.fandom.com/wiki/Wisp_of_Jealousy"
+  },
+  "Cipher Cell": {
+    "category": "Species",
+    "link": "https://terrabattle.fandom.com/wiki/Cipher_Cell"
+  },
+  "Mangled Horn": {
+    "category": "Species",
+    "link": "https://terrabattle.fandom.com/wiki/Mangled_Horn"
+  },
+  "Sentient Flame": {
+    "category": "Species",
+    "link": "https://terrabattle.fandom.com/wiki/Sentient_Flame"
+  },
+  "Lustrous Tail": {
+    "category": "Species",
+    "link": "https://terrabattle.fandom.com/wiki/Lustrous_Tail"
+  },
+  "Ignorant Flea": {
+    "category": "Species",
+    "link": "https://terrabattle.fandom.com/wiki/Ignorant_Flea"
+  },
+  "Tranquil Clock": {
+    "category": "Species",
+    "link": "https://terrabattle.fandom.com/wiki/Tranquil_Clock"
+  },
+  "Tome of Enlightenment": {
+    "category": "Species",
+    "link": "https://terrabattle.fandom.com/wiki/Tome_of_Enlightenment"
+  },
+  "Weapons": {
+    "category": "Weapons",
+    "link": "https://terrabattle.fandom.com/wiki/Weapons"
+  },
+  "Terra Swordsteel": {
+    "category": "Weapons",
+    "link": "https://terrabattle.fandom.com/wiki/Terra_Swordsteel"
+  },
+  "Terra Spearbronze": {
+    "category": "Weapons",
+    "link": "https://terrabattle.fandom.com/wiki/Terra_Spearbronze"
+  },
+  "Terra Bowstring": {
+    "category": "Weapons",
+    "link": "https://terrabattle.fandom.com/wiki/Terra_Bowstring"
+  },
+  "Terra Staffwood": {
+    "category": "Weapons",
+    "link": "https://terrabattle.fandom.com/wiki/Terra_Staffwood"
+  },
+  "Attributes": {
+    "category": "Attributes",
+    "link": "https://terrabattle.fandom.com/wiki/Attributes"
+  },
+  "Fire Ring": {
+    "category": "Attributes",
+    "link": "https://terrabattle.fandom.com/wiki/Fire_Ring"
+  },
+  "Ice Ring": {
+    "category": "Attributes",
+    "link": "https://terrabattle.fandom.com/wiki/Ice_Ring"
+  },
+  "Lightning Ring": {
+    "category": "Attributes",
+    "link": "https://terrabattle.fandom.com/wiki/Lightning_Ring"
+  },
+  "Dark Ring": {
+    "category": "Attributes",
+    "link": "https://terrabattle.fandom.com/wiki/Dark_Ring"
+  },
+  "Solar Ring": {
+    "category": "Attributes",
+    "link": "https://terrabattle.fandom.com/wiki/Solar_Ring"
+  },
+  "Lunar Ring": {
+    "category": "Attributes",
+    "link": "https://terrabattle.fandom.com/wiki/Lunar_Ring"
+  },
+  "Photon Ring": {
+    "category": "Attributes",
+    "link": "https://terrabattle.fandom.com/wiki/Photon_Ring"
+  },
+  "Graviton Ring": {
+    "category": "Attributes",
+    "link": "https://terrabattle.fandom.com/wiki/Graviton_Ring"
+  },
+  "White Ring": {
+    "category": "Attributes",
+    "link": "https://terrabattle.fandom.com/wiki/White_Ring"
+  },
+  "Green Ring": {
+    "category": "Attributes",
+    "link": "https://terrabattle.fandom.com/wiki/Green_Ring"
+  },
+  "A Class": {
+    "category": "Particles",
+    "link": "https://terrabattle.fandom.com/wiki/A_Class"
+  },
+  "B Class": {
+    "category": "Particles",
+    "link": "https://terrabattle.fandom.com/wiki/B_Class"
+  },
+  "Spirit Tears": {
+    "category": "Tears",
+    "link": "https://terrabattle.fandom.com/wiki/Spirit_Tears"
+  },
+  "Moon Tears": {
+    "category": "Tears",
+    "link": "https://terrabattle.fandom.com/wiki/Moon_Tears"
+  },
+  "Rainbow Tears": {
+    "category": "Tears",
+    "link": "https://terrabattle.fandom.com/wiki/Rainbow_Tears"
+  },
+  "Sea Tears": {
+    "category": "Tears",
+    "link": "https://terrabattle.fandom.com/wiki/Sea_Tears"
+  },
+  "Spirit Particle": {
+    "category": "Particles",
+    "link": "https://terrabattle.fandom.com/wiki/Spirit_Particle"
+  },
+  "Lore Particle": {
+    "category": "Particles",
+    "link": "https://terrabattle.fandom.com/wiki/Lore_Particle"
+  },
+  "Wish Particle": {
+    "category": "Particles",
+    "link": "https://terrabattle.fandom.com/wiki/Wish_Particle"
+  },
+  "Warped Particle": {
+    "category": "Particles",
+    "link": "https://terrabattle.fandom.com/wiki/Warped_Particle"
+  },
+  "Z Class": {
+    "category": "Z Class",
+    "link": "https://terrabattle.fandom.com/wiki/Z_Class"
+  },
+  "SS Class": {
+    "category": "SS Class",
+    "link": "https://terrabattle.fandom.com/wiki/SS_Class"
+  },
+  "S Class": {
+    "category": "Ores",
+    "link": "https://terrabattle.fandom.com/wiki/S_Class"
+  },
+  "Orichalcum": {
+    "category": "Ores",
+    "link": "https://terrabattle.fandom.com/wiki/Orichalcum"
+  },
+  "Dark Matter": {
+    "category": "Ores",
+    "link": "https://terrabattle.fandom.com/wiki/Dark_Matter"
+  },
+  "Animaton": {
+    "category": "Ores",
+    "link": "https://terrabattle.fandom.com/wiki/Animaton"
+  },
+  "Oxsecium": {
+    "category": "Ores",
+    "link": "https://terrabattle.fandom.com/wiki/Oxsecium"
+  },
+  "Dark Star": {
+    "category": "Stars",
+    "link": "https://terrabattle.fandom.com/wiki/Dark_Star"
+  },
+  "Evanescent Star": {
+    "category": "Stars",
+    "link": "https://terrabattle.fandom.com/wiki/Evanescent_Star"
+  },
+  "Shooting Star": {
+    "category": "Stars",
+    "link": "https://terrabattle.fandom.com/wiki/Shooting_Star"
+  },
+  "Binary Star": {
+    "category": "Stars",
+    "link": "https://terrabattle.fandom.com/wiki/Binary_Star"
+  },
+  "Recode DNA": {
+    "category": "Recode DNA",
+    "link": "https://terrabattle.fandom.com/wiki/Recode_DNA"
+  },
+  "Deepwater Helix": {
+    "category": "Recode DNA",
+    "link": "https://terrabattle.fandom.com/wiki/Deepwater_Helix"
+  },
+  "Mantle Helix": {
+    "category": "Recode DNA",
+    "link": "https://terrabattle.fandom.com/wiki/Mantle_Helix"
+  },
+  "Temporal Helix": {
+    "category": "Recode DNA",
+    "link": "https://terrabattle.fandom.com/wiki/Temporal_Helix"
+  },
+  "Flawless Helix": {
+    "category": "Recode DNA",
+    "link": "https://terrabattle.fandom.com/wiki/Flawless_Helix"
+  },
+  "Black Hole": {
+    "category": "Recode DNA",
+    "link": "https://terrabattle.fandom.com/wiki/Black_Hole"
+  },
+  "White Hole": {
+    "category": "Recode DNA",
+    "link": "https://terrabattle.fandom.com/wiki/White_Hole"
+  },
+  "Wormhole": {
+    "category": "Recode DNA",
+    "link": "https://terrabattle.fandom.com/wiki/Wormhole"
+  },
+  "Ether": {
+    "category": "Recode DNA",
+    "link": "https://terrabattle.fandom.com/wiki/Ether"
+  },
+  "Elixir": {
+    "category": "Recode DNA",
+    "link": "https://terrabattle.fandom.com/wiki/Elixir"
+  },
+  "Heartwood Sword": {
+    "category": "Z Class",
+    "link": "https://terrabattle.fandom.com/wiki/Heartwood_Sword"
+  },
+  "Heartwood Bow": {
+    "category": "Z Class",
+    "link": "https://terrabattle.fandom.com/wiki/Heartwood_Bow"
+  },
+  "Heartwood Spear": {
+    "category": "Z Class",
+    "link": "https://terrabattle.fandom.com/wiki/Heartwood_Spear"
+  },
+  "Heartwood Wand": {
+    "category": "Z Class",
+    "link": "https://terrabattle.fandom.com/wiki/Heartwood_Wand"
+  },
+  "Heartwood Pendant": {
+    "category": "Z Class",
+    "link": "https://terrabattle.fandom.com/wiki/Heartwood_Pendant"
+  },
+  "Gyros": {
+    "category": "Z Class",
+    "link": "https://terrabattle.fandom.com/wiki/Gyros"
+  },
+  "Excalibur": {
+    "category": "SS Class",
+    "link": "https://terrabattle.fandom.com/wiki/Excalibur"
+  },
+  "Gungnir": {
+    "category": "SS Class",
+    "link": "https://terrabattle.fandom.com/wiki/Gungnir"
+  },
+  "Apollo": {
+    "category": "SS Class",
+    "link": "https://terrabattle.fandom.com/wiki/Apollo"
+  },
+  "Flame of Indra": {
+    "category": "SS Class",
+    "link": "https://terrabattle.fandom.com/wiki/Flame_of_Indra"
+  },
+  "Gae Bolg": {
+    "category": "SS Class",
+    "link": "https://terrabattle.fandom.com/wiki/Gae_Bolg"
+  },
+  "Vajra (Item)": {
+    "category": "SS Class",
+    "link": "https://terrabattle.fandom.com/wiki/Vajra_(Item)"
+  },
+  "Masamune": {
+    "category": "SS Class",
+    "link": "https://terrabattle.fandom.com/wiki/Masamune"
+  },
+  "Asclepius": {
+    "category": "SS Class",
+    "link": "https://terrabattle.fandom.com/wiki/Asclepius"
+  },
+  "Terra Fragment": {
+    "category": "Unique",
+    "link": "https://terrabattle.fandom.com/wiki/Terra_Fragment"
+  },
+  "Locket of Vows": {
+    "category": "Unique",
+    "link": "https://terrabattle.fandom.com/wiki/Locket_of_Vows"
+  },
+  "Suoh": {
+    "category": "Unique",
+    "link": "https://terrabattle.fandom.com/wiki/Suoh"
+  },
+  "Camellia": {
+    "category": "Unique",
+    "link": "https://terrabattle.fandom.com/wiki/Camellia"
+  },
+  "Pig Snout": {
+    "category": "Unique",
+    "link": "https://terrabattle.fandom.com/wiki/Pig_Snout"
+  },
+  "Smooth Sensation": {
+    "category": "Unique",
+    "link": "https://terrabattle.fandom.com/wiki/Smooth_Sensation"
+  },
+  "Cryptid Forest": {
+    "category": "Unique",
+    "link": "https://terrabattle.fandom.com/wiki/Cryptid_Forest"
+  },
+  "Drifting Horn": {
+    "category": "Unique",
+    "link": "https://terrabattle.fandom.com/wiki/Drifting_Horn"
+  },
+  "Shiny Scale": {
+    "category": "Unique",
+    "link": "https://terrabattle.fandom.com/wiki/Shiny_Scale"
+  },
+  "Stylish Hoof": {
+    "category": "Unique",
+    "link": "https://terrabattle.fandom.com/wiki/Stylish_Hoof"
+  },
+  "Caladbolg": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Caladbolg"
+  },
+  "Caladcholg": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Caladcholg"
+  },
+  "Cobalt Goblet": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Cobalt_Goblet"
+  },
+  "Trident": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Trident"
+  },
+  "Amethyst Flame": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Amethyst_Flame"
+  },
+  "Rune": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Rune"
+  },
+  "Jade Magatama": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Jade_Magatama"
+  },
+  "Thunderbird Wing": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Thunderbird_Wing"
+  },
+  "Nephrite Kudatama": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Nephrite_Kudatama"
+  },
+  "Blackbird Wing": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Blackbird_Wing"
+  },
+  "Crust Loop": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Crust_Loop"
+  },
+  "Mantle Loop": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Mantle_Loop"
+  },
+  "Core Loop": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Core_Loop"
+  },
+  "Moggy&#39;s Sunglasses": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Moggy's_Sunglasses"
+  },
+  "Ancient Map": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Ancient_Map"
+  },
+  "Compass": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Compass"
+  },
+  "Lantern": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Lantern"
+  },
+  "Formless Clay": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Formless_Clay"
+  },
+  "Parchment": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Parchment"
+  },
+  "Ice Essence": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Ice_Essence"
+  },
+  "White Essence": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/White_Essence"
+  },
+  "Mana Stone": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Mana_Stone"
+  },
+  "Bloody Coat of Arms": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Bloody_Coat_of_Arms"
+  },
+  "Radiant Glory": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Radiant_Glory"
+  },
+  "Dish and Chips": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Dish_and_Chips"
+  },
+  "Grease Monkey&#39;s Schnitzel Sandwich": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Grease_Monkey's_Schnitzel_Sandwich"
+  },
+  "Garulessandwich": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Garulessandwich"
+  },
+  "Improvement Module": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Improvement_Module"
+  },
+  "Expansion Module": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Expansion_Module"
+  },
+  "Evolution Module": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Evolution_Module"
+  },
+  "Axion Dragon": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Axion_Dragon"
+  },
+  "Slippery Sand": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Slippery_Sand"
+  },
+  "Holy Dragon": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Holy_Dragon"
+  },
+  "Conceptual Canvas": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Conceptual_Canvas"
+  },
+  "Bahamut Recoded": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Bahamut_Recoded"
+  },
+  "Bahamut&#39;s Fang": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Bahamut's_Fang"
+  },
+  "Leviathan Recoded": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Leviathan_Recoded"
+  },
+  "Leviathan&#39;s Fang": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Leviathan's_Fang"
+  },
+  "Odin Recoded": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Odin_Recoded"
+  },
+  "Odin&#39;s Fang": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Odin's_Fang"
+  },
+  "Lucia the Explorer": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Lucia_the_Explorer"
+  },
+  "Key of Hearts": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Key_of_Hearts"
+  },
+  "Key of Diamonds": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Key_of_Diamonds"
+  },
+  "Vengeful Heart": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Vengeful_Heart"
+  },
+  "Magic Flute": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Magic_Flute"
+  },
+  "Necklace": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Necklace"
+  },
+  "Illusion Flute": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Illusion_Flute"
+  },
+  "Final Fantasy XV": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Final_Fantasy_XV"
+  },
+  "Leiden Potato": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Leiden_Potato"
+  },
+  "Cleigne Wheat": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Cleigne_Wheat"
+  },
+  "Garula Sirloin": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Garula_Sirloin"
+  },
+  "Garulessa Steak": {
+    "category": "Events",
+    "link": "https://terrabattle.fandom.com/wiki/Garulessa_Steak"
+  }
+}

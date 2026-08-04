@@ -1,0 +1,81 @@
+{
+  "tb1.utils.roll": {
+    "summary": "Simulates TB1 pact rolls, using the community-estimated drop rates in pact.json.",
+    "params": {
+      "pulls": "Number of pact rolls to simulate (1-100).",
+      "pof": "Whether Pact of Fellowship has been completed -- removes its guaranteed units from the pool.",
+      "base": "Lowest rarity you haven't fully collected yet (B/A/S/SS/Z) -- picks which drop-rate table applies; higher base means better odds, since lower rarities get removed from the pool once you own every unit at that tier."
+    }
+  },
+  "tb1.utils.dq": {
+    "summary": "Forecasts the TB1 daily quest rotation, starting today (UTC).",
+    "params": {
+      "days": "Number of days to forecast (1-7). Defaults to 3 if omitted."
+    }
+  },
+  "tb1.char": {
+    "summary": "Lists TB1 characters in a rarity tier, or looks up one character's wiki page by name.",
+    "params": {
+      "query": "A rarity grade (Z/SS/S/A/B), a character name (spaces/apostrophes/casing don't matter), or the word 'random'. Leave empty for a usage hint instead of the full roster."
+    }
+  },
+  "tb1.mon": {
+    "summary": "Lists TB1 monsters in a rarity tier, or looks up one monster's wiki page by name.",
+    "params": {
+      "query": "A rarity grade, a monster name, or the word 'random'. Leave empty for a usage hint."
+    }
+  },
+  "tb1.item": {
+    "summary": "Lists TB1 items in a category, or looks up one item's wiki page by name.",
+    "params": {
+      "query": "A category name (e.g. Tickets), an item name, or the word 'random'. Leave empty for a usage hint."
+    }
+  },
+  "tb1.buddy": {
+    "summary": "Lists TB1 companions in a rarity tier, wiki type, or Omicron tier (optionally combining two), or looks up one companion's wiki page by name.",
+    "params": {
+      "query": "A rarity grade, wiki type, Omicron tier, a companion name, or the word 'random'.",
+      "filter2": "A second rarity/type/Omicron tier to additionally filter by (any order relative to query) -- combine two axes to narrow a listing that's too big on its own, e.g. Z + Sword."
+    }
+  },
+  "tb1.search": {
+    "summary": "Searches TB1 characters, monsters, items, and companions at once for a name, instead of requiring you to already know which catalog it's in.",
+    "params": {
+      "query": "A name to search for. Returns every match if the name exists in more than one catalog (e.g. Bahamut is both a character and a companion)."
+    }
+  },
+  "tb1.recode": {
+    "summary": "Lists TB1 recode (base -> awakened) pairs, or shows one pair's wiki links by ID.",
+    "params": {
+      "query": "A 1-based pair ID from the list. Leave empty to see the full numbered list."
+    }
+  },
+  "tb1.utils": {
+    "summary": "Utility commands: pact-roll simulation and daily-quest forecasting.",
+    "short": "pact-roll simulation & daily-quest forecasting"
+  },
+  "tb1.special": {
+    "summary": "The Special Quests found in the game's Arena section -- narrative quests and crossover collaborations with other games (Final Fantasy XV, Mobius Final Fantasy, Battle Champs, The Last Story, etc.), plus a few retired one-off event quests. The three 'Hunt For X' quests are also Special Quests in-game, but kept in their own tb1.hunt category here since they're a different shape: single-unit recruits, not narrative campaigns.",
+    "short": "narrative quests & game crossovers"
+  },
+  "tb1.kino": {
+    "summary": "'Kino' refers to Kino Takahashi, the Terra Battle comic artist who designed these bosses. The 'X Kino Strikes Back' quests live in the Huntland menu's Strikes Back section (alongside the 8-Bit reboot line below), recruiting a Lambda-awakenable boss across escalating difficulty tiers on repeat clears.",
+    "short": "repeatable 'X Kino Strikes Back' bosses"
+  },
+  "tb1.8b": {
+    "summary": "8-Bit redesigns of some of the same Strikes Back bosses above, found in the same Huntland > Strikes Back section -- except 8-Bit Rush, which is filed under Special Quests in the Arena instead.",
+    "short": "retro 8-Bit reboot of the Kino Strikes Back bosses"
+  },
+  "tb1.hunt": {
+    "summary": "The three 'Hunt For X' quests (Blade Falcon, Bone Killer, Ethereal), found under Special Quests in the Arena -- each a single 4-battle quest to recruit one specific unit, with a guaranteed recruit chance on the first clear.",
+    "short": "single-quest recruits, guaranteed on first clear"
+  },
+  "tb1.world": {
+    "summary": "Areas on the World Map, unlocked through story progress -- except Mutoh Lambda and Shin'en Lambda, which are only accessible at their hardest tier during specific UTC hours.",
+    "short": "World Map zones, story- or time-gated"
+  },
+  "tb1.descent": {
+    "summary": "The Arena's Descent Quests section -- boss fights against Bahamut, Leviathan, and Odin (each escalating Descended -> Evolved -> Ultra -> Recoded), the three Dragon Kings, and Royal Rings.",
+    "short": "escalating Descended/Evolved/Ultra/Recoded boss questline"
+  }
+}

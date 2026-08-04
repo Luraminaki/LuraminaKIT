@@ -1,0 +1,514 @@
+{
+  "Warrior": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Warrior"
+  },
+  "Knight": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Knight"
+  },
+  "Archer": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Archer"
+  },
+  "Mage": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Mage"
+  },
+  "Healer": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Healer"
+  },
+  "Lizardfolk Warrior": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Lizardfolk_Warrior"
+  },
+  "Lizardfolk Knight": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Lizardfolk_Knight"
+  },
+  "Lizardfolk Archer": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Lizardfolk_Archer"
+  },
+  "Beastfolk Warrior": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Beastfolk_Warrior"
+  },
+  "Beastfolk Knight": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Beastfolk_Knight"
+  },
+  "Beastfolk Archer": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Beastfolk_Archer"
+  },
+  "Spinetrich": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Spinetrich"
+  },
+  "Sabertooth": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Sabertooth"
+  },
+  "Whitewyrm": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Whitewyrm"
+  },
+  "Triscorp": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Triscorp"
+  },
+  "Dark Tortoise": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Dark_Tortoise"
+  },
+  "Golem": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Golem"
+  },
+  "Wyvern": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Wyvern"
+  },
+  "Arachnobot": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Arachnobot"
+  },
+  "Cybergolem": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Cybergolem"
+  },
+  "Magma Mummy": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Magma_Mummy"
+  },
+  "Mantledrake": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Mantledrake"
+  },
+  "Cyberclops": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Cyberclops"
+  },
+  "Mothbot": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Mothbot"
+  },
+  "Mecharose": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Mecharose"
+  },
+  "Assassin": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Assassin"
+  },
+  "Vial Chucker": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Vial_Chucker"
+  },
+  "Regenercell": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Regenercell"
+  },
+  "Mechavirus 3721": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Mechavirus_3721"
+  },
+  "Megacell": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Megacell"
+  },
+  "Wastecell": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Wastecell"
+  },
+  "Ethereal": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Ethereal"
+  },
+  "Slasher": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Slasher"
+  },
+  "Mermaid": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Mermaid"
+  },
+  "Pegawyrm": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Pegawyrm"
+  },
+  "Cryowisp": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Cryowisp"
+  },
+  "Pyrowisp": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Pyrowisp"
+  },
+  "Blastosaur": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Blastosaur"
+  },
+  "Lich": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Lich"
+  },
+  "Marilith": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Marilith"
+  },
+  "Kraken": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Kraken"
+  },
+  "Tiamat": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Tiamat"
+  },
+  "White Sabertooth": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/White_Sabertooth"
+  },
+  "Sabertooth King": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Sabertooth_King"
+  },
+  "Bomborg": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Bomborg"
+  },
+  "Mechanic": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Mechanic"
+  },
+  "Blade Falcon": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Blade_Falcon"
+  },
+  "Beastfolk Hero": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Beastfolk_Hero"
+  },
+  "Devil Bat": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Devil_Bat"
+  },
+  "Lizardfolk Mage": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Lizardfolk_Mage"
+  },
+  "Beastfolk Mage": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Beastfolk_Mage"
+  },
+  "Stonefolk Warrior": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Stonefolk_Warrior"
+  },
+  "Stonefolk Knight": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Stonefolk_Knight"
+  },
+  "Stonefolk Archer": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Stonefolk_Archer"
+  },
+  "Stonefolk Mage": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Stonefolk_Mage"
+  },
+  "Lizardfolk Healer": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Lizardfolk_Healer"
+  },
+  "Beastfolk Healer": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Beastfolk_Healer"
+  },
+  "Stonefolk Healer": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Stonefolk_Healer"
+  },
+  "Androclops": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Androclops"
+  },
+  "Mechaclops": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Mechaclops"
+  },
+  "Mech Orbling": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Mech_Orbling"
+  },
+  "Phi Orbling": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Phi_Orbling"
+  },
+  "Mantle Tortoise": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Mantle_Tortoise"
+  },
+  "Celestial Dragon": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Celestial_Dragon"
+  },
+  "Onyx Dragon": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Onyx_Dragon"
+  },
+  "Vajra": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Vajra_%28Monster%29"
+  },
+  "Mediscanner": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Mediscanner"
+  },
+  "Floralpede": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Floralpede"
+  },
+  "Paralypede": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Paralypede"
+  },
+  "Slime Slug": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Slime_Slug"
+  },
+  "Dark Petrifier": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Dark_Petrifier"
+  },
+  "Dark Pegawyrm": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Dark_Pegawyrm"
+  },
+  "Starwhip": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Starwhip"
+  },
+  "Red Starwhip": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Red_Starwhip"
+  },
+  "Chargebot": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Chargebot"
+  },
+  "Flamebot": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Flamebot"
+  },
+  "Thornasaurus": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Thornasaurus"
+  },
+  "Lizardfolk Hero": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Lizardfolk_Hero"
+  },
+  "Electrosapper": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Electrosapper"
+  },
+  "Wailing Wall": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Wailing_Wall"
+  },
+  "Kujata": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Kujata"
+  },
+  "Suzaku": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Suzaku"
+  },
+  "Bone Killer": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Bone_Killer"
+  },
+  "Snaptrap": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Snaptrap"
+  },
+  "Chiton": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Chiton"
+  },
+  "Apirath": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Apirath"
+  },
+  "Scar": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Scar"
+  },
+  "Fortified Oxsecian Bulwark": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Fortified_Oxsecian_Bulwark"
+  },
+  "Layla": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Layla"
+  },
+  "Leonidas": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Leonidas"
+  },
+  "Storm Witch": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Storm_Witch"
+  },
+  "Spinetrich Kino Λ": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Spinetrich_Kino_%CE%9B"
+  },
+  "Kraken Kino Λ": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Kraken_Kino_%CE%9B"
+  },
+  "Tiamat Kino Λ": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Tiamat_Kino_%CE%9B"
+  },
+  "Slugosaur Kino Λ": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Slugosaur_Kino_%CE%9B"
+  },
+  "Primordial Dragon Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Primordial_Dragon_%CE%9B"
+  },
+  "Axion Dragon Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Axion_Dragon_%CE%9B"
+  },
+  "Holy Dragon Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Holy_Dragon_%CE%9B"
+  },
+  "8-Bit Spinetrich Λ": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/8-Bit_Spinetrich_%CE%9B"
+  },
+  "8-Bit Golem Λ": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/8-Bit_Golem_%CE%9B"
+  },
+  "8-Bit Orbling Λ": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/8-Bit_Orbling_%CE%9B"
+  },
+  "8-Bit Hiso Alien Λ": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/8-Bit_Hiso_Alien_%CE%9B"
+  },
+  "Relic": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Relic"
+  },
+  "King Orbling Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/King_Orbling_%CE%9B"
+  },
+  "Artemis Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Artemis_%CE%9B"
+  },
+  "Lamia Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Lamia_%CE%9B"
+  },
+  "Rascal★": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Rascal%E2%98%85"
+  },
+  "Valkyrie Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Valkyrie_%CE%9B"
+  },
+  "Chaos Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Chaos_%CE%9B"
+  },
+  "Lich Kino Λ": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Lich_Kino_%CE%9B"
+  },
+  "Marilith  Kino Λ": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Marilith_Kino_%CE%9B"
+  },
+  "Mechanic Kino Λ": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Mechanic_Kino_%CE%9B"
+  },
+  "Odin Kino Λ": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Odin_Kino_%CE%9B"
+  },
+  "Raijin Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Raijin_%CE%9B"
+  },
+  "Phoenix Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Phoenix_%CE%9B"
+  },
+  "Cockatrice Λ": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Cockatrice_%CE%9B"
+  },
+  "Bahamut Kino Λ": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Bahamut_Kino_%CE%9B"
+  },
+  "Leviathan Kino Λ": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Leviathan_Kino_%CE%9B"
+  },
+  "Joker Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Joker_%CE%9B"
+  },
+  "Steel Dragon": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Steel_Dragon"
+  },
+  "Manticlaw": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Manticlaw"
+  },
+  "Golden Arachnobot": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Golden_Arachnobot"
+  },
+  "Apollo Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Apollo_%CE%9B"
+  },
+  "Phaarz": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Phaarz"
+  },
+  "Giant Nega": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Giant_Nega"
+  },
+  "Reaver": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Reaver"
+  },
+  "Ancient Sadness": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Ancient_Sadness"
+  },
+  "Selene Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Selene_%CE%9B"
+  }
+}

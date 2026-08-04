@@ -1,0 +1,794 @@
+{
+  "54B2": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/54B2"
+  },
+  "A'misandra Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/A%27misandra_%CE%9B"
+  },
+  "Alika Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Alika_%CE%9B"
+  },
+  "Amazora Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Amazora_%CE%9B"
+  },
+  "Amina Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Amina_%CE%9B"
+  },
+  "Andelucia": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Andelucia"
+  },
+  "Andelucia Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Andelucia_%CE%9B"
+  },
+  "Annu": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Annu"
+  },
+  "Arionne": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Arionne"
+  },
+  "Ashe": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Ashe"
+  },
+  "Bahamut Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Bahamut_%CE%9B"
+  },
+  "Beau'ne": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Beau%27ne"
+  },
+  "Beau'ne Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Beau%27ne_%CE%9B"
+  },
+  "Bonna Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Bonna_%CE%9B"
+  },
+  "Camellia Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Camellia_%CE%9B"
+  },
+  "Chirol": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Chirol"
+  },
+  "Clara Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Clara_%CE%9B"
+  },
+  "Dahlia": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Dahlia"
+  },
+  "Djagos": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Djagos"
+  },
+  "Djugan Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Djugan_%CE%9B"
+  },
+  "Echo Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Echo_%CE%9B"
+  },
+  "Edg'low": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Edg%27low"
+  },
+  "Elga": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Elga"
+  },
+  "Ella Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Ella_%CE%9B"
+  },
+  "Ellvern Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Ellvern_%CE%9B"
+  },
+  "Engi": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Engi"
+  },
+  "Feno": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Feno"
+  },
+  "Feno Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Feno_%CE%9B"
+  },
+  "Gatz Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Gatz_%CE%9B"
+  },
+  "Gegonago Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Gegonago_%CE%9B"
+  },
+  "Gigojago Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Gigojago_%CE%9B"
+  },
+  "Ginny": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Ginny"
+  },
+  "Ginny Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Ginny_%CE%9B"
+  },
+  "Haggo": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Haggo"
+  },
+  "Hakann": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Hakann"
+  },
+  "Haruhikari": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Haruhikari"
+  },
+  "Invincible": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Invincible"
+  },
+  "Jaguna Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Jaguna_%CE%9B"
+  },
+  "Jennish Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Jennish_%CE%9B"
+  },
+  "Koko Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Koko_%CE%9B"
+  },
+  "Lacuma": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Lacuma"
+  },
+  "Lacuma Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Lacuma_%CE%9B"
+  },
+  "Leviathan Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Leviathan_%CE%9B"
+  },
+  "Lewto Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Lewto_%CE%9B"
+  },
+  "Lio": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Lio"
+  },
+  "Lucia Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Lucia_%CE%9B"
+  },
+  "Marcus": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Marcus"
+  },
+  "Mizell": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Mizell"
+  },
+  "Mizell Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Mizell_%CE%9B"
+  },
+  "Mizury": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Mizury"
+  },
+  "Mogha": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Mogha"
+  },
+  "Mutoh Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Mutoh_%CE%9B"
+  },
+  "Myne": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Myne"
+  },
+  "Nakupí Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Nakup%C3%AD_%CE%9B"
+  },
+  "Nazuna": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Nazuna"
+  },
+  "Nazuna Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Nazuna_%CE%9B"
+  },
+  "Nia Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Nia_%CE%9B"
+  },
+  "Odin Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Odin_%CE%9B"
+  },
+  "Olber Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Olber_%CE%9B"
+  },
+  "Palpa Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Palpa_%CE%9B"
+  },
+  "Peyrna": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Peyrna"
+  },
+  "Piz'fer Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Piz%27fer_%CE%9B"
+  },
+  "Pupropé Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Puprop%C3%A9_%CE%9B"
+  },
+  "Rejin Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Rejin_%CE%9B"
+  },
+  "Renova": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Renova"
+  },
+  "Rowlow": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Rowlow"
+  },
+  "Ryoma": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Ryoma"
+  },
+  "Samatha Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Samatha_%CE%9B"
+  },
+  "Sarah": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Sarah"
+  },
+  "Sayu": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Sayu"
+  },
+  "Sayu Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Sayu_%CE%9B"
+  },
+  "Scarlet": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Scarlet"
+  },
+  "Schweiz": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Schweiz"
+  },
+  "Senala": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Senala"
+  },
+  "Senala Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Senala_%CE%9B"
+  },
+  "Sha'plar Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Sha%27plar_%CE%9B"
+  },
+  "Shay": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Shay"
+  },
+  "Shin'en Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Shin%27en_%CE%9B"
+  },
+  "Suoh Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Suoh_%CE%9B"
+  },
+  "Tronic Gal": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Tronic_Gal"
+  },
+  "Tsutsura": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Tsutsura"
+  },
+  "Varve": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Varve"
+  },
+  "Violet": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Violet"
+  },
+  "Yukken Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Yukken_%CE%9B"
+  },
+  "Zafitte Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Zafitte_%CE%9B"
+  },
+  "Zaldor": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Zaldor"
+  },
+  "Zavison": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Zavison"
+  },
+  "Zerro Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Zerro_%CE%9B"
+  },
+  "36AIS": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/36AIS"
+  },
+  "A'merpact Λ": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/A%27merpact_%CE%9B"
+  },
+  "A'misandra": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/A%27misandra"
+  },
+  "Amimari": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Amimari"
+  },
+  "Amina": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Amina"
+  },
+  "Bajanna": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Bajanna"
+  },
+  "Burbaba Λ": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Burbaba_%CE%9B"
+  },
+  "Clara": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Clara"
+  },
+  "Czekras": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Czekras"
+  },
+  "Daiana Λ": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Daiana_%CE%9B"
+  },
+  "Eileen Λ": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Eileen_%CE%9B"
+  },
+  "Gaiga": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Gaiga"
+  },
+  "Gugba": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Gugba"
+  },
+  "Jag": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Jag"
+  },
+  "Jennish": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Jennish"
+  },
+  "Kem Λ": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Kem_%CE%9B"
+  },
+  "Kir'ue": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Kir%27ue"
+  },
+  "Koh": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Koh"
+  },
+  "Koko": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Koko"
+  },
+  "Korin Λ": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Korin_%CE%9B"
+  },
+  "Lew": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Lew"
+  },
+  "Lewto": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Lewto"
+  },
+  "Lucia": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Lucia"
+  },
+  "Maldor": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Maldor"
+  },
+  "Nia": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Nia"
+  },
+  "Olber": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Olber"
+  },
+  "Pahrl Λ": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Pahrl_%CE%9B"
+  },
+  "Piz'fer": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Piz%27fer"
+  },
+  "Rikken": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Rikken"
+  },
+  "Roland": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Roland"
+  },
+  "S'naip Λ": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/S%27naip_%CE%9B"
+  },
+  "Samatha": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Samatha"
+  },
+  "Velraine Λ": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Velraine_%CE%9B"
+  },
+  "Xaepha": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Xaepha"
+  },
+  "Yukken": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Yukken"
+  },
+  "Yulia": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Yulia"
+  },
+  "Zerro": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Zerro"
+  },
+  "Alika": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Alika"
+  },
+  "Ba'gunar Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Ba%27gunar_%CE%9B"
+  },
+  "Bahamut": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Bahamut"
+  },
+  "Bahl Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Bahl_%CE%9B"
+  },
+  "Bonna": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Bonna"
+  },
+  "Calista": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Calista"
+  },
+  "Captive Golem": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Captive_Golem"
+  },
+  "Djugan": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Djugan"
+  },
+  "Echo": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Echo"
+  },
+  "Ellvern": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Ellvern"
+  },
+  "Gatz": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Gatz"
+  },
+  "Gegonago": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Gegonago"
+  },
+  "Grace Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Grace_%CE%9B"
+  },
+  "Leviathan": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Leviathan"
+  },
+  "Lunaken": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Lunaken"
+  },
+  "Lunato": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Lunato"
+  },
+  "Morgana": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Morgana"
+  },
+  "Odin": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Odin"
+  },
+  "Okklitot": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Okklitot"
+  },
+  "Palpa": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Palpa"
+  },
+  "Pupropu": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Pupropu"
+  },
+  "Pupropé": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Puprop%C3%A9"
+  },
+  "Pupru": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Pupru"
+  },
+  "Ra'prow Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Ra%27prow_%CE%9B"
+  },
+  "Rejin": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Rejin"
+  },
+  "Sh'berdan Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Sh%27berdan_%CE%9B"
+  },
+  "Sha'plar": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Sha%27plar"
+  },
+  "Y'apkar": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Y%27apkar"
+  },
+  "Zael": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Zael"
+  },
+  "Zafitte": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Zafitte"
+  },
+  "Zeera": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Zeera"
+  },
+  "Zuzu": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Zuzu"
+  },
+  "A'merpact": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/A%27merpact"
+  },
+  "Burbaba": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Burbaba"
+  },
+  "Daiana": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Daiana"
+  },
+  "Eileen": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Eileen"
+  },
+  "Harold": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Harold"
+  },
+  "Iskar": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Iskar"
+  },
+  "Jade Dragon": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Jade_Dragon"
+  },
+  "Ka'pori": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Ka%27pori"
+  },
+  "Kana": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Kana"
+  },
+  "Kem": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Kem"
+  },
+  "Korin": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Korin"
+  },
+  "Manmer": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Manmer"
+  },
+  "Metupí": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Metup%C3%AD"
+  },
+  "Nakupí": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Nakup%C3%AD"
+  },
+  "Nephrite Dragon": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Nephrite_Dragon"
+  },
+  "Pahrl": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Pahrl"
+  },
+  "R'zonand": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/R%27zonand"
+  },
+  "S'naip": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/S%27naip"
+  },
+  "Samupí": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Samup%C3%AD"
+  },
+  "Amazora": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Amazora"
+  },
+  "Ba'gunar": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Ba%27gunar"
+  },
+  "Bahl": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Bahl"
+  },
+  "Gigojago": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Gigojago"
+  },
+  "Grace": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Grace"
+  },
+  "Kuscah": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Kuscah"
+  },
+  "Ma'curi": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Ma%27curi"
+  },
+  "O'pari": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/O%27pari"
+  },
+  "Ra'prow": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Ra%27prow"
+  },
+  "Sh'berdan": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Sh%27berdan"
+  },
+  "Sorman": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Sorman"
+  },
+  "U'nasag": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/U%27nasag"
+  },
+  "Zan": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Zan"
+  },
+  "Zenzoze": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Zenzoze"
+  },
+  "Dracorin": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Dracorin"
+  },
+  "Lich Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Lich_%CE%9B"
+  },
+  "Marilith Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Marilith_%CE%9B"
+  },
+  "Invincible Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Invincible_%CE%9B"
+  },
+  "Seiryu Λ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Seiryu_%CE%9B"
+  },
+  "Noctis": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Noctis"
+  },
+  "Dracorin Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Dracorin_%CE%9B"
+  },
+  "Dagus": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Dagus"
+  }
+}

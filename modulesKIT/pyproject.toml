@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "modulesKIT"
+version = "0.0.1"
+description = "Generic FastAPI modules for a Discord bot, one small service per module"
+requires-python = ">=3.12"
+dependencies = [
+    "unidecode",
+    "fastapi",
+    "fastapi-cli",
+    "uvicorn",
+    "pydantic",
+    # 'contractsKIT' is a sibling project in this monorepo, not a portable PEP 621
+    # dependency -- install it editable alongside this package instead.
+]
+
+# Optional dependencies for a future OCR-based module. Not required by any module
+# in this repo yet (anyquotes doesn't use them) -- install with
+# `pip install -e .[ocr]` once such a module exists.
+[project.optional-dependencies]
+ocr = [
+    "numpy",
+    "opencv-contrib-python",
+    "paddleocr",
+    "paddlepaddle",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+modulesKIT = ["py.typed"]

@@ -1,0 +1,21 @@
+{
+    "directories": {
+        "data_directory": "./data/"
+    },
+    "tokens": {},
+    "modules": {
+        "anyquotes": {
+            "port": 8001,
+            "description": "Simple module that sends random quotes on demand...",
+            "auto_start": true,
+            "datas": {
+                "template": "```<quote>\n> <author>```**<source_file>**"
+            }
+        },
+        "tb1": {
+            "port": 8002,
+            "description": "Terra Battle 1 companion: pact rolls, daily quest forecast, event info",
+            "auto_start": true
+        }
+    }
+}

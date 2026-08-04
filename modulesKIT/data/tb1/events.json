@@ -1,0 +1,515 @@
+{
+  "tb1.special.vengefulheart": {
+    "title": "Vengeful Heart Event Chart",
+    "credit": "Uploaded by Alpha12 of the Terra Battle Wiki",
+    "link": "http://terrabattle.wikia.com/wiki/Vengeful_Heart",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/3/36/Vengeful_Heart_banner.png/revision/latest?cb=20161124201828",
+    "aliases": [
+      "tb1.s.vh"
+    ],
+    "flowchart_file": "flowchart.png"
+  },
+  "tb1.special.arachnobot": {
+    "title": "Arachnobot's Tale Event (+ Chart)",
+    "credit": "Chart made by Rydia of the Terra Battle Forum (original chart link is dead; showing the wiki's official banner instead)",
+    "link": "http://terrabattle.wikia.com/wiki/Arachnobot%27s_Tale",
+    "aliases": [
+      "tb1.s.at"
+    ],
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/8/8c/Arachnobot%27s_Tale_banner.png/revision/latest?cb=20170714014930",
+    "flowchart_file": "flowchart.png"
+  },
+  "tb1.8b.golem": {
+    "title": "8-Bit Golem Strikes Back",
+    "credit": "Repeatable event quest (3 difficulty tiers) to recruit 8-Bit Golem Λ; the boss changes behavior at 30% HP, and the hardest tier can spawn extra \"Metal Rocker\" adds -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/8-Bit_Golem_Strikes_Back",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/f/f7/8-Bit_Golem_Strikes_Back_banner.png/revision/latest?cb=20160830180652",
+    "note": "Repeatable event quest",
+    "aliases": [
+      "tb1.8b.gol"
+    ]
+  },
+  "tb1.8b.hisoalien": {
+    "title": "8-Bit Hiso Alien Strikes Back",
+    "credit": "Repeatable event quest to recruit 8-Bit Hiso Alien Λ, featuring poison and time floor traps and lopsided elemental resistances against the boss -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/8-Bit_Hiso_Alien_Strikes_Back",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/1/18/8-Bit_Hiso_Alien_Strikes_Back_banner.png/revision/latest?cb=20160916011808",
+    "note": "Repeatable event quest",
+    "aliases": [
+      "tb1.8b.hiso"
+    ]
+  },
+  "tb1.8b.orbling": {
+    "title": "8-Bit Orbling Strikes Back",
+    "credit": "Repeatable event quest to recruit 8-Bit Orbling Λ; contains Kinetic traps, deals double damage to Beastfolk allies, and the boss changes behavior at 30% HP -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/8-Bit_Orbling_Strikes_Back",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/f/f5/8-Bit_Orbling_Strikes_Back_banner.png/revision/latest?cb=20160825123412",
+    "note": "Repeatable event quest",
+    "aliases": [
+      "tb1.8b.orb"
+    ]
+  },
+  "tb1.8b.spinetrich": {
+    "title": "8-Bit Spinetrich Strikes Back",
+    "credit": "Repeatable event quest to recruit 8-Bit Spinetrich Λ; the boss switches between spear and sword mid-fight, deals double damage to Stonefolk, and heals from Darkness attacks at the hardest tier -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/8-Bit_Spinetrich_Strikes_Back",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/9/95/8-Bit_Spinetrich_Strikes_Back.png/revision/latest?cb=20160828133459",
+    "note": "Repeatable event quest",
+    "aliases": [
+      "tb1.8b.spine"
+    ]
+  },
+  "tb1.kino.bahamut": {
+    "title": "Bahamut Kino Strikes Back",
+    "credit": "Repeatable event quest (added in Version 4.6.0) to recruit Bahamut Kino Λ; defeating the boss at the hardest tier spawns the true Bahamut alongside three ice-only-damageable \"mini\" Bahamut Kinos -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Bahamut_Kino_Strikes_Back",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/d/d6/Bahamut_Kino_Strikes_Back_banner.png/revision/latest?cb=20170227070024",
+    "note": "Repeatable event quest",
+    "aliases": [
+      "tb1.k.baha"
+    ]
+  },
+  "tb1.kino.kraken": {
+    "title": "Kraken Kino Strikes Back",
+    "credit": "Repeatable event quest to recruit Kraken Kino Λ, distinguished by lopsided weapon damage (sword strong, bow/spear nearly useless) and double damage dealt to Lizardfolk allies -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Kraken_Kino_Strikes_Back",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/1/18/Kraken_Kino_Strikes_Back_banner.png/revision/latest?cb=20170303212932",
+    "note": "Repeatable event quest",
+    "aliases": [
+      "tb1.k.kk"
+    ]
+  },
+  "tb1.kino.leviathan": {
+    "title": "Leviathan Kino Strikes Back",
+    "credit": "Repeatable event quest (added in Version 4.6.0) to recruit Leviathan Kino Λ; at the hardest tier, damage dealt before the boss flees determines how many \"Metal Rocker\" adds appear in the following fight -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Leviathan_Kino_Strikes_Back",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/5/5d/Leviathan_Kino_Strikes_Back_banner.png/revision/latest?cb=20170228024003",
+    "note": "Repeatable event quest",
+    "aliases": [
+      "tb1.k.levi"
+    ]
+  },
+  "tb1.kino.lich": {
+    "title": "Lich Kino Strikes Back",
+    "credit": "Repeatable event quest across three escalating tiers to recruit Lich Kino Λ and farm event trading items; a \"Metal Rocker\" can spawn at the hardest tier -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Lich_Kino_Strikes_Back",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/6/62/Lich_Kino_Strikes_Back_banner.png/revision/latest?cb=20170303212618",
+    "note": "Repeatable event quest",
+    "aliases": [
+      "tb1.k.lich"
+    ]
+  },
+  "tb1.kino.marilith": {
+    "title": "Marilith Kino Strikes Back",
+    "credit": "Repeatable event quest to recruit Marilith Kino Λ; male party characters take a stacking ATK/MATK debuff by tier, its signature gimmick -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Marilith_Kino_Strikes_Back",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/9/9f/Marilith_Kino_Strikes_Back_banner.png/revision/latest?cb=20170303210345",
+    "note": "Repeatable event quest",
+    "aliases": [
+      "tb1.k.mari"
+    ]
+  },
+  "tb1.kino.mechanic": {
+    "title": "Mechanic Kino Strikes Back",
+    "credit": "Repeatable event quest to recruit Mechanic Kino Λ; escalating floor-trap damage per tier, double damage against Lizardfolk-type units, and the boss can revive its adds on the final floor -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Mechanic_Kino_Strikes_Back",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/7/7d/Mechanic_Kino_Strikes_Back_I_banner.png/revision/latest?cb=20161130002653",
+    "note": "Repeatable event quest",
+    "aliases": [
+      "tb1.k.mec"
+    ]
+  },
+  "tb1.kino.odin": {
+    "title": "Odin Kino Strikes Back",
+    "credit": "Repeatable event quest to recruit Odin Kino Λ; the hardest tier branches into a tougher route if the team's average level is 80+ and the opening battle clears within 2 turns -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Odin_Kino_Strikes_Back",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/f/f2/Odin_Kino_Strikes_Back_banner.png/revision/latest?cb=20170310220523",
+    "note": "Repeatable event quest",
+    "aliases": [
+      "tb1.k.odin"
+    ]
+  },
+  "tb1.kino.slugosaur": {
+    "title": "Slugosaur Kino Strikes Back",
+    "credit": "Repeatable event quest to recruit Slugosaur Kino Λ; magic damage is reduced against most enemies, Spear/Bow attacks are nearly useless against the boss, and the hardest tier can spawn extra adds -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Slugosaur_Kino_Strikes_Back",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/9/96/Slugosaur_Kino_Strikes_Back_banner.png/revision/latest?cb=20170303191827",
+    "note": "Repeatable event quest",
+    "aliases": [
+      "tb1.k.slug"
+    ]
+  },
+  "tb1.kino.spinetrich": {
+    "title": "Spinetrich Kino Strikes Back",
+    "credit": "Repeatable event quest to recruit Spinetrich Kino Λ; the boss deals double damage to Beastfolk, swaps between spear and sword mid-fight, and heals from lightning damage -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Spinetrich_Kino_Strikes_Back",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/7/7a/Spinetrich_Kino_Strikes_Back_I_banner.png/revision/latest?cb=20160630195133",
+    "note": "Repeatable event quest",
+    "aliases": [
+      "tb1.k.spine"
+    ]
+  },
+  "tb1.kino.tiamat": {
+    "title": "Tiamat Kino Strikes Back",
+    "credit": "Repeatable event quest to recruit Tiamat Kino Λ; the boss alternates between fire and ice each battle, absorbing/resisting its current element, with physical damage sharply reduced at higher tiers -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Tiamat_Kino_Strikes_Back",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/6/65/Tiamat_Kino_Strikes_Back_banner.png/revision/latest?cb=20170310175417",
+    "note": "Repeatable event quest",
+    "aliases": [
+      "tb1.k.tia"
+    ]
+  },
+  "tb1.world.cryptidforest": {
+    "title": "Cryptid Forest",
+    "credit": "Special zone unlocked after Chapter 4 with two quests that drop job-2/3 upgrade items for the Dracorin companion; a Lucky Runner enemy always spawns and pincering it grants a party-wide Luck boost -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Cryptid_Forest",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/9/9e/Crackling_Dracorin_banner.png/revision/latest?cb=20170223175322",
+    "note": "Permanent special zone",
+    "aliases": [
+      "tb1.w.cf"
+    ]
+  },
+  "tb1.world.mutohlambda": {
+    "title": "Mutoh Λ",
+    "credit": "Very Hard-mode special zone by Chapter 35 with a 4-tier difficulty system gated by story progress (or fixed to the hardest tier during two daily UTC windows); Mutoh Λ is only recruitable at the top tier -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Mutoh_%CE%9B_(Quest)",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/0/00/Mutoh_background.png/revision/latest?cb=20160726154151",
+    "note": "Permanent special zone",
+    "aliases": [
+      "tb1.w.mu"
+    ]
+  },
+  "tb1.world.shinenlambda": {
+    "title": "Shin'en Λ",
+    "credit": "The paired Very Hard-mode special zone to Mutoh Λ, also by Chapter 35, with the same 4-tier story-gated difficulty system; Shin'en Λ is only recruitable at the top tier -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Shin%27en_%CE%9B_(Quest)",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/1/10/Shin%27en_background.png/revision/latest?cb=20160726154417",
+    "note": "Permanent special zone",
+    "aliases": [
+      "tb1.w.shi"
+    ]
+  },
+  "tb1.world.ultimatefive": {
+    "title": "Ultimate Five",
+    "credit": "A series of five elemental boss quests (Garuda/Solar, Gatekeeper/Photon, Quyat/Graviton, Apostolos/Lunar, Agartha/Physical) unlocked after Chapter 19; a Hard Mode variant unlocks after clearing all five on Normal -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Ultimate_Five",
+    "note": "Permanent special zone",
+    "aliases": [
+      "tb1.w.u5"
+    ]
+  },
+  "tb1.special.8bitrush": {
+    "title": "8-Bit Rush",
+    "credit": "A six-battle gauntlet (Arena > Special Quests) fighting reskinned 'Strikes Back'-style bosses to earn companions; added in Version 4.7.0, made a permanent Arena fixture in Version 5.5.0 -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/8-Bit_Rush",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/9/99/8-Bit_Rush_banner.png/revision/latest?cb=20170615175905",
+    "note": "Arena special quest",
+    "aliases": [
+      "tb1.s.8br"
+    ]
+  },
+  "tb1.special.chanceencountersarah": {
+    "title": "A Chance Encounter With Sarah",
+    "credit": "A one-battle Special Quest crossover featuring Sarah and enemies from Terra Battle 2 -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/A_Chance_Encounter_With_Sarah",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/8/8c/A_Chance_Encounter_With_Sarah_banner.png/revision/latest?cb=20181010204952",
+    "note": "Arena special quest",
+    "aliases": [
+      "tb1.s.sarah"
+    ]
+  },
+  "tb1.special.battlechamps": {
+    "title": "Battle Champs",
+    "credit": "Collaboration quest with mobile game Battle Champs (Little Noah); four branching sub-quests recruit Nia (recodable into Nia Λ) plus companions Maverick★ and Spike★ -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Battle_Champs",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/c/cf/Battle_Champs_-_The_Creature_From_the_Void.png/revision/latest?cb=20160930072121",
+    "note": "Arena special quest",
+    "aliases": [
+      "tb1.s.bch"
+    ],
+    "flowchart_file": "flowchart.png"
+  },
+  "tb1.special.finalfantasyxv": {
+    "title": "Final Fantasy XV",
+    "credit": "Collaboration event with Final Fantasy XV; three quests (Gladiolus, Ignis, Prompto) offering a chance to recruit Noctis, Cactuar, and Chocobo -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Final_Fantasy_XV",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/4/40/Final_Fantasy_XV_banner.png/revision/latest?cb=20170427190713",
+    "note": "Arena special quest",
+    "aliases": [
+      "tb1.s.ffxv"
+    ],
+    "flowchart_file": "flowchart.png"
+  },
+  "tb1.special.luciaexplorer": {
+    "title": "Lucia the Explorer",
+    "credit": "Four-part quest series to recruit Lucia and her recode materials for Lucia Λ; a young explorer retraces her parents' journey through mysterious doors and keys -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Lucia_the_Explorer",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/2/26/Lucia_the_Explorer_Banner.png/revision/latest?cb=20151028191518",
+    "note": "Arena special quest",
+    "aliases": [
+      "tb1.s.lucia"
+    ],
+    "flowchart_file": "flowchart.png"
+  },
+  "tb1.special.meltingpotbeastfolk": {
+    "title": "Melting Pot Beastfolk",
+    "credit": "15-quest series based on Chapter 3 (\"Melting Pot\") of the main story; rewards include Candy items and unique Omicron III companions for Amimari, Gegonago, and Zuzu -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Melting_Pot_Beastfolk",
+    "note": "Arena special quest",
+    "aliases": [
+      "tb1.s.bf"
+    ]
+  },
+  "tb1.special.meltingpothuman": {
+    "title": "Melting Pot Human",
+    "credit": "15-quest series based on Chapter 3 (\"Melting Pot\") of the main story; rewards include Candy items and unique Omicron III companions for Ellvern, Harold, Yukken, and Rikken -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Melting_Pot_Human",
+    "note": "Arena special quest",
+    "aliases": [
+      "tb1.s.h"
+    ]
+  },
+  "tb1.special.meltingpotlizardfolk": {
+    "title": "Melting Pot Lizardfolk",
+    "credit": "15-quest series based on Chapter 3 (\"Melting Pot\") of the main story; rewards include Candy items and unique Omicron III companions for Ra'prow, Sh'berdan, and Ma'curi -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Melting_Pot_Lizardfolk",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/2/2b/Melting_Pot_Lizardfolk_banner.png/revision/latest?cb=20180502005832",
+    "note": "Arena special quest",
+    "aliases": [
+      "tb1.s.lf"
+    ]
+  },
+  "tb1.special.mobiusfinalfantasy": {
+    "title": "Mobius Final Fantasy",
+    "credit": "Collaboration event with Mobius Final Fantasy; battles branch on party composition and in-combat actions, offering a chance to recruit Echo and Mog -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Mobius_Final_Fantasy",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/1/17/MOBIUS_FINAL_FANTASY_banner.png/revision/latest?cb=20161222001443",
+    "note": "Arena special quest",
+    "aliases": [
+      "tb1.s.mobiusff"
+    ],
+    "flowchart_file": "flowchart.png"
+  },
+  "tb1.special.captivegolem": {
+    "title": "The Captive Golem",
+    "credit": "Four-part quest series (I-IV) featuring the S-class boss Captive Golem, escalating into Golem of Creation/Destruction; retired content, removed in Version 5.5.0 -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/The_Captive_Golem",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/b/b6/The_Captive_Golem_banner.png/revision/latest?cb=20160227212422",
+    "note": "Retired event quest",
+    "aliases": [
+      "tb1.s.cg"
+    ]
+  },
+  "tb1.special.jadedragon": {
+    "title": "Hunting the Jade Dragon",
+    "credit": "Branching event quest (5-6 escalating battles across up to 4 routes, gated by turn count and cumulative drag time) to recruit Jade Dragon and Nephrite Dragon; retired content, removed in Version 5.5.0; route flowchart compiled from the wiki's own quest breakdown, since no original fan chart survives for this one -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Hunting_the_Jade_Dragon",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/a/ac/Hunting_the_Jade_Dragon.png/revision/latest?cb=20150724032224",
+    "note": "Retired event quest",
+    "aliases": [
+      "tb1.s.jd"
+    ],
+    "flowchart_file": "flowchart.png"
+  },
+  "tb1.hunt.bladefalcon": {
+    "title": "The Hunt For Blade Falcon",
+    "credit": "Single 4-battle quest to recruit Blade Falcon -- 100% recruit chance on first clear, 30% after; enemies are weak to Spear-type skills/characters -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/The_Hunt_For_Blade_Falcon",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/1/12/The_Hunt_For_Blade_Falcon_banner.png/revision/latest?cb=20171222072544",
+    "note": "Arena special quest",
+    "aliases": [
+      "tb1.h.bf"
+    ]
+  },
+  "tb1.hunt.bonekiller": {
+    "title": "The Hunt For Bone Killer",
+    "credit": "Single 4-battle quest to recruit Bone Killer -- 100% recruit chance on first clear, 30% after; enemies are weak to Elemental and magical skills -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/The_Hunt_For_Bone_Killer",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/8/80/The_Hunt_For_Bone_Killer_banner.png/revision/latest?cb=20180102005444",
+    "note": "Arena special quest",
+    "aliases": [
+      "tb1.h.bk"
+    ]
+  },
+  "tb1.hunt.ethereal": {
+    "title": "The Hunt For Ethereal",
+    "credit": "Single 4-battle quest to recruit Ethereal -- 100% recruit chance on first clear, 30% after; floor spikes line the screen edges, and enemies are weak to Bow-type skills/characters -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/The_Hunt_For_Ethereal",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/7/7f/The_Hunt_For_Ethereal_banner.png/revision/latest?cb=20180111001216",
+    "note": "Arena special quest",
+    "aliases": [
+      "tb1.h.eth"
+    ]
+  },
+  "tb1.special.laststory": {
+    "title": "The Last Story",
+    "credit": "Collaboration event with Mistwalker's The Last Story, picking up after the original game's ending; branches into five possible endings based on in-battle player actions, offering Zael and Calista as recruits -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/The_Last_Story",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/1/1e/LS_illust.jpg/revision/latest?cb=20150424202950",
+    "note": "Arena special quest",
+    "aliases": [
+      "tb1.s.tls"
+    ],
+    "flowchart_file": "flowchart.png"
+  },
+  "tb1.descent.bahamutdescended": {
+    "title": "Bahamut Descended",
+    "credit": "5-battle quest (first available Oct 2014) featuring S-class dragon mage Bahamut as a recruitable boss; drops Bahamut (20% if unrecruited) or Blazing Wand -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Bahamut_Descended",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/9/94/Bahamut_Descended_banner.png/revision/latest?cb=20151031015046",
+    "note": "Descent quest",
+    "aliases": [
+      "tb1.d.bahad"
+    ]
+  },
+  "tb1.descent.bahamutevolved": {
+    "title": "Bahamut Evolved",
+    "credit": "5-battle quest featuring Neo Bahamut, Bahamut's evolved form; rewards Bahamut (40% if unrecruited) or Caladbolg, with rare Suzaku/Kujata companion drops -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Bahamut_Evolved",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/d/df/Bahamut_Evolved_banner.png/revision/latest?cb=20151031014841",
+    "note": "Descent quest",
+    "aliases": [
+      "tb1.d.bahae"
+    ]
+  },
+  "tb1.descent.bahamutrecoded": {
+    "title": "Bahamut Recoded",
+    "credit": "High-difficulty quest reusing Bahamut Ultra's battles with the boss swapped for Bahamut Λ, who can summon Twisters; non-boss enemies are buffed and give double coins/EXP -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Bahamut_Recoded",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/d/d2/Bahamut_Recoded_banner.png/revision/latest?cb=20160825095956",
+    "note": "Descent quest",
+    "aliases": [
+      "tb1.d.bahar"
+    ]
+  },
+  "tb1.descent.bahamutultra": {
+    "title": "Bahamut Ultra",
+    "credit": "Quest featuring Bahamut Omega, whose defeat can drop Caladcholg; stacking Anti-Fire Capsules is the recommended strategy against his Meteor attack -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Bahamut_Ultra",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/7/75/Bahamut_Ultra_banner.png/revision/latest?cb=20151031014522",
+    "note": "Descent quest",
+    "aliases": [
+      "tb1.d.bahau"
+    ]
+  },
+  "tb1.descent.leviathandescended": {
+    "title": "Leviathan Descended",
+    "credit": "5-battle quest featuring S-class dragon mage Leviathan as a recruitable boss; drops Leviathan (20% if unrecruited) or Glacial Wand -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Leviathan_Descended",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/9/99/Leviathan_Descended_banner.png/revision/latest?cb=20151031015802",
+    "note": "Descent quest",
+    "aliases": [
+      "tb1.d.levid"
+    ]
+  },
+  "tb1.descent.leviathanevolved": {
+    "title": "Leviathan Evolved",
+    "credit": "5-battle quest featuring Neo Leviathan; rewards Leviathan (40% if unrecruited) or Cobalt Goblet, with a rare Chiton companion drop -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Leviathan_Evolved",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/5/52/Leviathan_Evolved_banner.png/revision/latest?cb=20151031020014",
+    "note": "Descent quest",
+    "aliases": [
+      "tb1.d.levie"
+    ]
+  },
+  "tb1.descent.leviathanrecoded": {
+    "title": "Leviathan Recoded",
+    "credit": "High-difficulty quest reusing Leviathan Ultra's battles with added Time traps and the boss swapped for Leviathan Λ; non-boss enemies are buffed and give double coins/EXP -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Leviathan_Recoded",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/6/66/Leviathan_Recoded_banner.png/revision/latest?cb=20160901004558",
+    "note": "Descent quest",
+    "aliases": [
+      "tb1.d.levir"
+    ]
+  },
+  "tb1.descent.leviathanultra": {
+    "title": "Leviathan Ultra",
+    "credit": "Quest featuring Leviathan Omega, who can drop Trident; Anti-Ice Capsules and Levitation are recommended against his Maelstrom/Icicle attacks -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Leviathan_Ultra",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/a/a9/Leviathan_Ultra_banner.png/revision/latest?cb=20151031020105",
+    "note": "Descent quest",
+    "aliases": [
+      "tb1.d.leviu"
+    ]
+  },
+  "tb1.descent.odindescended": {
+    "title": "Odin Descended",
+    "credit": "5-battle quest featuring S-class celestial knight Odin as a recruitable boss; drops Odin (20% if unrecruited) or Iron Spear -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Odin_Descended",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/d/d5/Odin_Descended_banner.png/revision/latest?cb=20151031020317",
+    "note": "Descent quest",
+    "aliases": [
+      "tb1.d.odind"
+    ]
+  },
+  "tb1.descent.odinevolved": {
+    "title": "Odin Evolved",
+    "credit": "5-battle quest featuring Neo Odin, who can drop Amethyst Flame; also offers a rare Wailing Wall companion recruit -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Odin_Evolved",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/c/cd/Odin_Evolved_banner.png/revision/latest?cb=20151031020530",
+    "note": "Descent quest",
+    "aliases": [
+      "tb1.d.odine"
+    ]
+  },
+  "tb1.descent.odinrecoded": {
+    "title": "Odin Recoded",
+    "credit": "High-difficulty quest reusing Odin Ultra's battles with added Kinetic traps and the boss swapped for Odin Λ; non-boss enemies are buffed and give double coins/EXP -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Odin_Recoded",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/7/77/Odin_Recoded_banner.png/revision/latest?cb=20160908011622",
+    "note": "Descent quest",
+    "aliases": [
+      "tb1.d.odinr"
+    ]
+  },
+  "tb1.descent.odinultra": {
+    "title": "Odin Ultra",
+    "credit": "Quest featuring Odin Omega, who can drop Rune; a physical-damage team with a Disarm Bomb user is recommended against his Zantetsuso attack -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Odin_Ultra",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/9/97/Odin_Ultra_banner.png/revision/latest?cb=20151031020856",
+    "note": "Descent quest",
+    "aliases": [
+      "tb1.d.odinu"
+    ]
+  },
+  "tb1.descent.dragonkingprimordial": {
+    "title": "The Primordial Dragon King",
+    "credit": "One of three sibling Dragon King Descended quests; fights the Primordial Dragon and rewards the SS companion Axion Dragon plus materials to evolve it to Z-class -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/The_Primordial_Dragon_King",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/4/4a/The_Primordial_Dragon_King_banner.png/revision/latest?cb=20160428194959",
+    "note": "Descent quest",
+    "aliases": [
+      "tb1.d.dkprim"
+    ]
+  },
+  "tb1.descent.dragonkinginexorable": {
+    "title": "The Inexorable Dragon King",
+    "credit": "One of three sibling Dragon King Descended quests; fights the Axion Dragon and rewards a rare (1%) Primordial Dragon Z companion -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/The_Inexorable_Dragon_King",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/2/2d/The_Inexorable_Dragon_King_banner.png/revision/latest?cb=20160429032629",
+    "note": "Descent quest",
+    "aliases": [
+      "tb1.d.dkinex"
+    ]
+  },
+  "tb1.descent.dragonkingresplendent": {
+    "title": "The Resplendent Dragon King",
+    "credit": "One of three sibling Dragon King Descended quests; fights the Holy Dragon and rewards the SS companion Holy Dragon (only if it doesn't retreat) plus materials to evolve it to Z-class -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/The_Resplendent_Dragon_King",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/7/77/The_Resplendent_Dragon_King_banner.png/revision/latest?cb=20160429033444",
+    "note": "Descent quest",
+    "aliases": [
+      "tb1.d.dkresp"
+    ]
+  },
+  "tb1.descent.royalrings": {
+    "title": "Royal Rings Descended",
+    "credit": "Two-part quest bundling \"The Sun King\" (3 battles) and \"The Moon King\" (1 battle); defeating Moon King awards the Sun King and Moon King SS companions respectively, with a rare (1%) Royal Ringstone drop from Sun King -- via the Terra Battle Wiki",
+    "link": "https://terrabattle.fandom.com/wiki/Royal_Rings_Descended",
+    "image_url": "https://static.wikia.nocookie.net/terrabattle/images/1/1b/Royal_Rings_Descended_banner.png/revision/latest?cb=20170629165508",
+    "note": "Descent quest",
+    "aliases": [
+      "tb1.d.royal"
+    ]
+  }
+}

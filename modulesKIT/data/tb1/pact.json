@@ -1,0 +1,172 @@
+{
+	"rarities": [
+		"B", "A", "S", "SS", "Z"
+	],
+	"rates": {
+		"B": {
+			"B": 45,
+			"A": 45,
+			"S": 4.5,
+			"SS": 4.5,
+			"Z": 1
+		},
+		"A": {
+			"A": 90,
+			"S": 4.5,
+			"SS": 4.5,
+			"Z": 1
+		},
+		"S": {
+			"S": 45,
+			"SS": 45,
+			"Z": 10
+		},
+		"SS": {
+			"SS": 90,
+			"Z": 10
+		},
+		"Z": {
+			"Z": 100
+		}
+	},
+	"Silver Road": {
+		"title": "Silver Road",
+		"alias": [
+			"SR", "Silver", "S"
+		],
+		"rates": {
+			"B": 45,
+			"A": 45,
+			"S": 4.5,
+			"SS": 4.5,
+			"Z": 1
+		}
+	},
+	"Silver Road B Clear": {
+		"title": "Silver Road B Clear",
+		"alias": [
+			"SRBC", "SB"
+		],
+		"rates": {
+			"B": 0,
+			"A": 90,
+			"S": 4.5,
+			"SS": 4.5,
+			"Z": 1
+		}
+	},
+	"Silver Road A Clear": {
+		"title": "Silver Road A Clear",
+		"alias": [
+			"SRAC", "SA"
+		],
+		"rates": {
+			"B": 90,
+			"A": 0,
+			"S": 4.5,
+			"SS": 4.5,
+			"Z": 1
+		}
+	},
+	"Gold Road": {
+		"title": "Gold Road",
+		"alias": [
+			"GR", "Gold", "G"
+		],
+		"rates": {
+			"S": 45,
+			"SS": 45,
+			"Z": 10
+		}
+	},
+	"Gold Road S Clear": {
+		"title": "Gold Road S Clear",
+		"alias": [
+			"GRSC", "GS", "GS"
+		],
+		"rates": {
+			"S": 0,
+			"SS": 90,
+			"Z": 10
+		}
+	},
+	"Gold Road SS Clear": {
+		"title": "Gold Road SS Clear",
+		"alias": [
+			"GRSSC", "GSS"
+		],
+		"rates": {
+			"S": 90,
+			"SS": 90,
+			"Z": 10
+		}
+	},
+	"Rainbow Road": {
+		"title": "Rainbow Road",
+		"alias": [
+			"RR", "Rainbow", "R"
+		],
+		"rates": {
+			"Z": 100
+		}
+	},
+	"units": {
+		"B": [
+			"Amazora", "Ba'gunar", "Bahl", "Gigojago", "Grace", "Jaguna", "Kuscah", "Ma'curi", "O'pari",
+			"Ra'prow", "Sh'berdan", "Sorman", "U'nasag", "Zan", "Zenzoze"
+		],
+		"A": [
+			"A'merpact", "Burbaba", "Daiana", "Eileen", "Harold", "Iskar", "Kana", "Ka'pori", "Kem", "Korin",
+			"Manmer", "Maralme", "Metupí", "Nakupí", "Pahrl", "R'zonand", "Samupí", "S'naip", "Velraine"
+		],
+		"S": [
+			"Alika", "Bahl Λ", "Bonna", "Djugan", "Ellvern", "Gatz", "Gegonago", "Grace Λ", "Lunaken",
+			"Lunato", "Okklitot", "Palpa", "Pupropé", "Pupropu", "Pupru", "Ra'prow Λ", "Rejin", "Sha'plar",
+			"Sh'berdan Λ", "Y'apkar", "Zafitte", "Zeera", "Zuzu"
+		],
+		"SS": [
+			"36AIS", "Amimari", "Amina", "A'misandra", "Bajanna", "Camellia", "Czekras", "Gaiga", "Gugba",
+			"Jag", "Jennish", "Kir'ue", "Koko", "Lewto", "Maldor", "Olber", "Piz'fer", "Rikken", "Samatha",
+			"Sheena", "Suoh", "Yukken", "Yulia", "Zerro", "A'merpact Λ", "Burbaba Λ", "Daiana Λ", "Eileen Λ",
+			"Kem Λ", "Korin Λ", "S'naip Λ", "Velraine Λ"
+		],
+		"Z": [
+			"54B2", "Andelucia", "Annu", "Ashe", "Beau'ne", "Dahlia", "Edg'low", "Engi", "Feno", "Hakann",
+			"Haruhikari", "Invincible", "Lacuma", "Marcus", "Mizell", "Mogha", "Myne", "Nazuna", "Peyrna",
+			"Sayu", "Scarlet", "Schweiz", "Seiryu", "Violet", "Zavison", "Zaldor", "Ginny", "Haggo",
+			"Alika Λ", "Amazora Λ", "Amina Λ", "A'misandra Λ", "Bonna Λ", "Camellia Λ", "Ellvern Λ",
+			"Gatz Λ", "Gegonago Λ", "Invincible Λ", "Jaguna Λ", "Jennish Λ", "Koko Λ", "Lewto Λ", "Nakupí Λ",
+			"Olber Λ", "Piz'fer Λ", "Pupropé Λ", "Rejin Λ", "Samatha Λ", "Seiryu Λ", "Sha'plar Λ", "Suoh Λ",
+			"Yukken Λ", "Zerro Λ"
+		],
+		"Arachnobot's Tale": {
+			"Z": [
+				"Tronic Gal"
+			]
+		},
+		"Vengeful Heart": {
+			"Z": [
+				"Clara Λ", "Senala"
+			]
+		},
+		"Death of Shay and Arionne": {
+			"Z": [
+				"Shay", "Arionne"
+			]
+		},
+		"Pact of Fellowship": {
+			"B": [
+				"Jaguna"
+			],
+			"A": [
+				"Velraine", "Maralme"
+			],
+			"SS": [
+				"Sheena", "Suoh", "Camellia", "Velraine Λ"
+			],
+			"Z": [
+				"Jaguna Λ", "Suoh Λ", "Camellia Λ", "Seiryu", "Seiryu Λ", "Invincible Λ"
+			]
+		}
+	}
+}

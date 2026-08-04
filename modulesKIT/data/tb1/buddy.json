@@ -1,0 +1,2799 @@
+{
+  "Healing Wand": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Healing_Wand",
+    "type": "Staff",
+    "attribute": "Healing"
+  },
+  "Healing Rod": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Healing_Rod",
+    "type": "Staff",
+    "attribute": "Healing"
+  },
+  "Whitewyrm Wand": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Whitewyrm_Wand",
+    "type": "Staff",
+    "attribute": "Healing"
+  },
+  "White Candle": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/White_Candle",
+    "type": "Other",
+    "attribute": "Healing"
+  },
+  "White Lamp": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/White_Lamp",
+    "type": "Other",
+    "attribute": "Healing"
+  },
+  "Regen Bangle": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Regen_Bangle",
+    "type": "Other",
+    "attribute": "Healing"
+  },
+  "Regen Cane": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Regen_Cane",
+    "type": "Staff",
+    "attribute": "Healing"
+  },
+  "Blazing Wand": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Blazing_Wand",
+    "type": "Staff",
+    "attribute": "Fire"
+  },
+  "Inferno Rod": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Inferno_Rod",
+    "type": "Staff",
+    "attribute": "Fire"
+  },
+  "Sun Spirit": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Sun_Spirit",
+    "type": "Staff",
+    "attribute": "Fire"
+  },
+  "Red Cane": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Red_Cane",
+    "type": "Staff",
+    "attribute": "Fire"
+  },
+  "Mantle Staff": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Mantle_Staff",
+    "type": "Staff",
+    "attribute": "Fire"
+  },
+  "Staff of Apollo": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Staff_of_Apollo",
+    "type": "Staff",
+    "attribute": "Fire"
+  },
+  "Glacial Wand": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Glacial_Wand",
+    "type": "Staff",
+    "attribute": "Ice"
+  },
+  "Blizzard Rod": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Blizzard_Rod",
+    "type": "Staff",
+    "attribute": "Ice"
+  },
+  "Arctic Spirit": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Arctic_Spirit",
+    "type": "Staff",
+    "attribute": "Ice"
+  },
+  "Blue Cane": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Blue_Cane",
+    "type": "Staff",
+    "attribute": "Ice"
+  },
+  "Comet Staff": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Comet_Staff",
+    "type": "Staff",
+    "attribute": "Ice"
+  },
+  "Staff of Poseidon": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Staff_of_Poseidon",
+    "type": "Staff",
+    "attribute": "Ice"
+  },
+  "Thunderous Wand": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Thunderous_Wand",
+    "type": "Staff",
+    "attribute": "Lightning"
+  },
+  "Lightning Rod": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Lightning_Rod",
+    "type": "Staff",
+    "attribute": "Lightning"
+  },
+  "Storm Spirit": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Storm_Spirit",
+    "type": "Staff",
+    "attribute": "Lightning"
+  },
+  "Yellow Cane": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Yellow_Cane",
+    "type": "Staff",
+    "attribute": "Lightning"
+  },
+  "Electromagnetic Staff": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Electromagnetic_Staff",
+    "type": "Staff",
+    "attribute": "Lightning"
+  },
+  "Staff of Zeus": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Staff_of_Zeus",
+    "type": "Staff",
+    "attribute": "Lightning"
+  },
+  "Sable Wand": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Sable_Wand",
+    "type": "Staff",
+    "attribute": "Darkness"
+  },
+  "Abyss Rod": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Abyss_Rod",
+    "type": "Staff",
+    "attribute": "Darkness"
+  },
+  "Shadow Spirit": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Shadow_Spirit",
+    "type": "Other",
+    "attribute": "Darkness"
+  },
+  "Black Cane": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Black_Cane",
+    "type": "Staff",
+    "attribute": "Darkness"
+  },
+  "Ebony Staff": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Ebony_Staff",
+    "type": "Staff",
+    "attribute": "Darkness"
+  },
+  "Staff of Chaos": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Staff_of_Chaos",
+    "type": "Staff",
+    "attribute": "Darkness"
+  },
+  "Scorching Shield": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Scorching_Shield",
+    "type": "Shield",
+    "attribute": "Fire"
+  },
+  "Subzero Shield": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Subzero_Shield",
+    "type": "Shield",
+    "attribute": "Ice"
+  },
+  "Radiant Shield": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Radiant_Shield",
+    "type": "Shield",
+    "attribute": "Lightning"
+  },
+  "Stygian Shield": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Stygian_Shield",
+    "type": "Shield",
+    "attribute": "Darkness"
+  },
+  "Iron Sword": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Iron_Sword",
+    "type": "Sword"
+  },
+  "Iron Spear": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Iron_Spear",
+    "type": "Spear"
+  },
+  "Iron Bow": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Iron_Bow",
+    "type": "Bow"
+  },
+  "Silver Sword": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Silver_Sword",
+    "type": "Sword"
+  },
+  "Silver Spear": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Silver_Spear",
+    "type": "Spear"
+  },
+  "Silver Bow": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Silver_Bow",
+    "type": "Bow"
+  },
+  "Excalibur": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Excalibur_%28Companion%29",
+    "type": "Sword"
+  },
+  "Gungnir": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Gungnir_%28Companion%29",
+    "type": "Spear"
+  },
+  "Apollo": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Apollo_%28Companion%29",
+    "type": "Bow"
+  },
+  "Ragnarok": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Ragnarok",
+    "type": "Sword"
+  },
+  "Rune": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Rune_%28Companion%29",
+    "type": "Spear"
+  },
+  "Bow of Genji": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Bow_of_Genji",
+    "type": "Bow"
+  },
+  "Dracuan Knife": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Dracuan_Knife",
+    "type": "Sword"
+  },
+  "Blood Blade": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Blood_Blade",
+    "type": "Sword"
+  },
+  "Frog's Chronicle": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Frog%27s_Chronicle",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Rat's Chronicle": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Rat%27s_Chronicle",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Pig's Chronicle": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Pig%27s_Chronicle",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Golem's Chronicle": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Golem%27s_Chronicle",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Faerie's Chronicle": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Faerie%27s_Chronicle",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Hiso's Chronicle": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Hiso%27s_Chronicle",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "King's Chronicle": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/King%27s_Chronicle",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Demon's Chronicle": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Demon%27s_Chronicle",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Dragon's Chronicle": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Dragon%27s_Chronicle",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Frog's Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Frog%27s_Shield",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Rat's Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Rat%27s_Shield",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Pig's Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Pig%27s_Shield",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Golem's Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Golem%27s_Shield",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Faerie's Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Faerie%27s_Shield",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Hiso's Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Hiso%27s_Shield",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "King's Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/King%27s_Shield",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Demon's Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Demon%27s_Shield",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Dragon's Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Dragon%27s_Shield",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Stalwart Sword": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Stalwart_Sword",
+    "type": "Sword"
+  },
+  "Steel Shield": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Steel_Shield",
+    "type": "Shield"
+  },
+  "Killer Bow": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Killer_Bow",
+    "type": "Bow"
+  },
+  "Light Shield": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Light_Shield",
+    "type": "Shield"
+  },
+  "Skullsplitter": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Skullsplitter",
+    "type": "Sword"
+  },
+  "Combat Shield": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Combat_Shield",
+    "type": "Shield"
+  },
+  "Bewitching Bow": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Bewitching_Bow",
+    "type": "Bow"
+  },
+  "Mystical Shield": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Mystical_Shield",
+    "type": "Shield"
+  },
+  "Power Elixir": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Power_Elixir",
+    "type": "Other"
+  },
+  "Healing Puppet A": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Healing_Puppet_A",
+    "type": "Other",
+    "attribute": "Healing"
+  },
+  "Silver Wing": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Silver_Wing",
+    "type": "Other"
+  },
+  "Rainbow Balloons": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Rainbow_Balloons",
+    "type": "Other"
+  },
+  "Shield of Genji": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Shield_of_Genji",
+    "type": "Other"
+  },
+  "Ribbon": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Ribbon",
+    "type": "Other"
+  },
+  "Kiss Bottle": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Kiss_Bottle",
+    "type": "Other"
+  },
+  "Square Ring": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Square_Ring",
+    "type": "Other"
+  },
+  "Masamune": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Masamune_%28Companion%29",
+    "type": "Sword"
+  },
+  "Trident": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Trident_%28Companion%29",
+    "type": "Spear"
+  },
+  "Lunar Bow": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Lunar_Bow",
+    "type": "Bow"
+  },
+  "Twilight Wand": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Twilight_Wand",
+    "type": "Staff"
+  },
+  "Darkling Wand": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Darkling_Wand",
+    "type": "Staff"
+  },
+  "Shooting Star": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Shooting_Star_%28Companion%29",
+    "type": "Other"
+  },
+  "Frog's Talisman": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Frog%27s_Talisman",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Rat's Talisman": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Rat%27s_Talisman",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Pig's Talisman": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Pig%27s_Talisman",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Golem's Talisman": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Golem%27s_Talisman",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Faerie's Talisman": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Faerie%27s_Talisman",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Hiso's Talisman": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Hiso%27s_Talisman",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Demon's Talisman": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Demon%27s_Talisman",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "King's Talisman": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/King%27s_Talisman",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Dragon's Talisman": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Dragon%27s_Talisman",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Holy Dragon": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Holy_Dragon",
+    "type": "Other",
+    "attribute": "Photon"
+  },
+  "Zack": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Zack",
+    "type": "Other",
+    "attribute": "Fire"
+  },
+  "Holy Dragon Z": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Holy_Dragon_Z",
+    "type": "Other",
+    "attribute": "Photon"
+  },
+  "Lani": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Lani",
+    "type": "Other",
+    "attribute": "Ice"
+  },
+  "Axion Dragon": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Axion_Dragon",
+    "type": "Other",
+    "attribute": "Graviton"
+  },
+  "Skip": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Skip",
+    "type": "Other",
+    "attribute": "Lightning"
+  },
+  "Axion Dragon Z": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Axion_Dragon_Z",
+    "type": "Other",
+    "attribute": "Graviton"
+  },
+  "Pete": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Pete",
+    "type": "Other",
+    "attribute": "Darkness"
+  },
+  "White Orbling": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/White_Orbling",
+    "type": "Other"
+  },
+  "Dark Blade": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Dark_Blade",
+    "type": "Sword"
+  },
+  "Shield of Veracity": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Shield_of_Veracity",
+    "type": "Shield"
+  },
+  "Quickfire Bow": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Quickfire_Bow",
+    "type": "Bow"
+  },
+  "Small Shield": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Small_Shield",
+    "type": "Shield"
+  },
+  "Punishers": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Punishers",
+    "type": "Other"
+  },
+  "Avengers": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Avengers",
+    "type": "Other"
+  },
+  "Fiery Karma": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Fiery_Karma",
+    "type": "Other",
+    "attribute": "Fire"
+  },
+  "Icy Karma": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Icy_Karma",
+    "type": "Other",
+    "attribute": "Ice"
+  },
+  "Thunderous Karma": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Thunderous_Karma",
+    "type": "Other",
+    "attribute": "Lightning"
+  },
+  "Dark Karma": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Dark_Karma",
+    "type": "Other",
+    "attribute": "Darkness"
+  },
+  "Mythril Sword": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Mythril_Sword",
+    "type": "Sword"
+  },
+  "Mythril Shield": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Mythril_Shield",
+    "type": "Shield"
+  },
+  "Mythril Rod": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Mythril_Rod",
+    "type": "Staff"
+  },
+  "Magic Shield": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Magic_Shield",
+    "type": "Shield"
+  },
+  "Orichalcum Sword": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Orichalcum_Sword",
+    "type": "Sword"
+  },
+  "Orichalcum Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Orichalcum_Shield",
+    "type": "Shield"
+  },
+  "Orichalcum Rod": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Orichalcum_Rod",
+    "type": "Staff"
+  },
+  "Aegis": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Aegis",
+    "type": "Shield"
+  },
+  "Astral Hourglass": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Astral_Hourglass",
+    "type": "Other"
+  },
+  "Timeless Hourglass": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Timeless_Hourglass",
+    "type": "Other"
+  },
+  "Metal Minion": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Metal_Minion",
+    "type": "Metal"
+  },
+  "Metal Minion Λ": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Metal_Minion_%CE%9B",
+    "type": "Metal"
+  },
+  "Metal Minion ΛΛ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Metal_Minion_%CE%9B%CE%9B",
+    "type": "Metal"
+  },
+  "Frog's Badge": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Frog%27s_Badge",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Rat's Badge": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Rat%27s_Badge",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Pig's Badge": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Pig%27s_Badge",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Golem's Badge": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Golem%27s_Badge",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Faerie's Badge": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Faerie%27s_Badge",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Hiso's Badge": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Hiso%27s_Badge",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Demon's Badge": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Demon%27s_Badge",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "King's Badge": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/King%27s_Badge",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Dragon's Badge": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Dragon%27s_Badge",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Golden Minion Λ": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Golden_Minion_%CE%9B",
+    "type": "Metal"
+  },
+  "Frog's Fan": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Frog%27s_Fan",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Rat's Fan": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Rat%27s_Fan",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Pig's Fan": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Pig%27s_Fan",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Golem's Fan": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Golem%27s_Fan",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Faerie's Fan": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Faerie%27s_Fan",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Hiso's Fan": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Hiso%27s_Fan",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "King's Fan": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/King%27s_Fan",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Demon's Fan": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Demon%27s_Fan",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Dragon's Fan": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Dragon%27s_Fan",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Bomborg": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Bomborg_%28Companion%29",
+    "type": "Other"
+  },
+  "Beastfolk Sword": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Beastfolk_Sword",
+    "type": "Sword"
+  },
+  "Beastfolk Spear": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Beastfolk_Spear",
+    "type": "Spear"
+  },
+  "Beastfolk Bow": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Beastfolk_Bow",
+    "type": "Bow"
+  },
+  "Sunstorm Wand": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Sunstorm_Wand",
+    "type": "Staff",
+    "attribute": "Fire"
+  },
+  "Icestorm Wand": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Icestorm_Wand",
+    "type": "Staff",
+    "attribute": "Ice"
+  },
+  "Thunderstorm Wand": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Thunderstorm_Wand",
+    "type": "Staff",
+    "attribute": "Lightning"
+  },
+  "Shadowstorm Wand": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Shadowstorm_Wand",
+    "type": "Staff",
+    "attribute": "Darkness"
+  },
+  "Fiery Vigilante": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Fiery_Vigilante",
+    "type": "Other",
+    "attribute": "Fire"
+  },
+  "Icy Vigilante": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Icy_Vigilante",
+    "type": "Other",
+    "attribute": "Ice"
+  },
+  "Thunderous Vigilante": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Thunderous_Vigilante",
+    "type": "Other",
+    "attribute": "Lightning"
+  },
+  "Dark Vigilante": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Dark_Vigilante",
+    "type": "Other",
+    "attribute": "Darkness"
+  },
+  "Healing Ring": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Healing_Ring",
+    "type": "Other",
+    "attribute": "Healing"
+  },
+  "White Pendant": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/White_Pendant",
+    "type": "Other",
+    "attribute": "Healing"
+  },
+  "Regen Ring": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Regen_Ring",
+    "type": "Other",
+    "attribute": "Healing"
+  },
+  "Regen Flute": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Regen_Flute",
+    "type": "Other",
+    "attribute": "Healing"
+  },
+  "Gloomy Wand": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Gloomy_Wand",
+    "type": "Staff"
+  },
+  "Shadowy Rod": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Shadowy_Rod",
+    "type": "Staff"
+  },
+  "Seeker's Sword": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Seeker%27s_Sword",
+    "type": "Sword"
+  },
+  "Shield of Vigilance": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Shield_of_Vigilance",
+    "type": "Shield"
+  },
+  "Mariner's Spear": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Mariner%27s_Spear",
+    "type": "Spear"
+  },
+  "Fine Shield": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Fine_Shield",
+    "type": "Shield"
+  },
+  "Discerning Spear": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Discerning_Spear",
+    "type": "Sword"
+  },
+  "Shield of Oaths": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Shield_of_Oaths",
+    "type": "Shield"
+  },
+  "Miasma Blade": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Miasma_Blade",
+    "type": "Sword"
+  },
+  "Round Shield": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Round_Shield",
+    "type": "Shield"
+  },
+  "Scaling Sword": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Scaling_Sword",
+    "type": "Sword"
+  },
+  "Champion's Shield": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Champion%27s_Shield",
+    "type": "Shield"
+  },
+  "Memorial Bow": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Memorial_Bow",
+    "type": "Bow"
+  },
+  "Shield of Camaraderie": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Shield_of_Camaraderie",
+    "type": "Shield"
+  },
+  "Frog's Tear": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Frog%27s_Tear",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Rat's Tear": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Rat%27s_Tear",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Pig's Tear": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Pig%27s_Tear",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Golem's Tear": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Golem%27s_Tear",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Faerie's Tear": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Faerie%27s_Tear",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Hiso's Tear": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Hiso%27s_Tear",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "King's Tear": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/King%27s_Tear",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Demon's Tear": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Demon%27s_Tear",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Dragon's Tear": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Dragon%27s_Tear",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Frog's Note": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Frog%27s_Note",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Rat's Note": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Rat%27s_Note",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Pig's Note": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Pig%27s_Note",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Golem's Note": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Golem%27s_Note",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Faerie's Note": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Faerie%27s_Note",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Hiso's Note": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Hiso%27s_Note",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "King's Note": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/King%27s_Note",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Demon's Note": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Demon%27s_Note",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Dragon's Note": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Dragon%27s_Note",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Frog": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Frog",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Rat": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Rat",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Pig": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Pig",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Golem": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Golem_%28Companion%29",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Faerie": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Faerie",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Hiso Alien": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Hiso_Alien_%28Companion%29",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "King": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/King",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Demon": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Demon",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Dragon": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Dragon_%28Companion%29",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Frog's Amulet": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Frog%27s_Amulet",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Rat's Amulet": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Rat%27s_Amulet",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Pig's Amulet": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Pig%27s_Amulet",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Golem's Amulet": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Golem%27s_Amulet",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Faerie's Amulet": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Faerie%27s_Amulet",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Hiso's Amulet": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Hiso%27s_Amulet",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Demon's Amulet": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Demon%27s_Amulet",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "King's Amulet": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/King%27s_Amulet",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Dragon's Amulet": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Dragon%27s_Amulet",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Frog's Buckler": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Frog%27s_Buckler",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Rat's Buckler": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Rat%27s_Buckler",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Pig's Buckler": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Pig%27s_Buckler",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Golem's Buckler": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Golem%27s_Buckler",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Faerie's Buckler": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Faerie%27s_Buckler",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Hiso's Buckler": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Hiso%27s_Buckler",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "King's Buckler": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/King%27s_Buckler",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Demon's Buckler": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Demon%27s_Buckler",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Dragon's Buckler": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Dragon%27s_Buckler",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Bronze Sword": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Bronze_Sword",
+    "type": "Sword"
+  },
+  "Bronze Shield": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Bronze_Shield",
+    "type": "Shield"
+  },
+  "Bronze Rod": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Bronze_Rod",
+    "type": "Staff"
+  },
+  "White Shield": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/White_Shield",
+    "type": "Shield"
+  },
+  "Infernal Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Infernal_Shield",
+    "type": "Shield",
+    "attribute": "Fire"
+  },
+  "Crystalline Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Crystalline_Shield",
+    "type": "Shield",
+    "attribute": "Ice"
+  },
+  "Luminous Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Luminous_Shield",
+    "type": "Shield",
+    "attribute": "Lightning"
+  },
+  "Dusky Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Dusky_Shield",
+    "type": "Shield",
+    "attribute": "Darkness"
+  },
+  "Fire Visor": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Fire_Visor",
+    "type": "Other",
+    "attribute": "Fire"
+  },
+  "Ice Visor": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Ice_Visor",
+    "type": "Other",
+    "attribute": "Ice"
+  },
+  "Lightning Visor": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Lightning_Visor",
+    "type": "Other",
+    "attribute": "Lightning"
+  },
+  "Shadow Visor": {
+    "rarity": "D",
+    "link": "https://terrabattle.fandom.com/wiki/Shadow_Visor",
+    "type": "Other",
+    "attribute": "Darkness"
+  },
+  "Fire Helmet": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Fire_Helmet",
+    "type": "Other",
+    "attribute": "Fire"
+  },
+  "Ice Helmet": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Ice_Helmet",
+    "type": "Other",
+    "attribute": "Ice"
+  },
+  "Lightning Helmet": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Lightning_Helmet",
+    "type": "Other",
+    "attribute": "Lightning"
+  },
+  "Shadow Helmet": {
+    "rarity": "C",
+    "link": "https://terrabattle.fandom.com/wiki/Shadow_Helmet",
+    "type": "Other",
+    "attribute": "Darkness"
+  },
+  "Fire Shield": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Fire_Shield",
+    "type": "Shield",
+    "attribute": "Fire"
+  },
+  "Ice Shield": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Ice_Shield",
+    "type": "Shield",
+    "attribute": "Ice"
+  },
+  "Lightning Shield": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Lightning_Shield",
+    "type": "Shield",
+    "attribute": "Lightning"
+  },
+  "Shadow Shield": {
+    "rarity": "B",
+    "link": "https://terrabattle.fandom.com/wiki/Shadow_Shield",
+    "type": "Shield",
+    "attribute": "Darkness"
+  },
+  "Earth Sword": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Earth_Sword",
+    "type": "Sword"
+  },
+  "Earth Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Earth_Shield",
+    "type": "Shield"
+  },
+  "Sorcerer's Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Sorcerer%27s_Shield",
+    "type": "Shield"
+  },
+  "Stone Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Stone_Shield",
+    "type": "Shield"
+  },
+  "Lizardfolk Crest": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Lizardfolk_Crest",
+    "type": "Other"
+  },
+  "Martial Mace": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Martial_Mace",
+    "type": "Staff"
+  },
+  "Musical Note": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Musical_Note",
+    "type": "Other"
+  },
+  "Musical Chord": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Musical_Chord",
+    "type": "Other"
+  },
+  "Featherfoot": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Featherfoot",
+    "type": "Other"
+  },
+  "Mog": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Mog",
+    "type": "Other"
+  },
+  "Tonberry": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Tonberry",
+    "type": "Other"
+  },
+  "Ochu": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Ochu",
+    "type": "Other",
+    "attribute": "Healing"
+  },
+  "Laz3r Blast3r": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Laz3r_Blast3r",
+    "type": "Other"
+  },
+  "Lucky Coin": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Lucky_Coin",
+    "type": "Other"
+  },
+  "Laser Blaster": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Laser_Blaster",
+    "type": "Other"
+  },
+  "Celestial Envoy": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Celestial_Envoy",
+    "type": "Other"
+  },
+  "Mustache": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Mustache",
+    "type": "Other"
+  },
+  "Ministache": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Ministache",
+    "type": "Other"
+  },
+  "Deluxe Pacifier": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Deluxe_Pacifier",
+    "type": "Other"
+  },
+  "Whimsical Pacifier": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Whimsical_Pacifier",
+    "type": "Other"
+  },
+  "Glassy Minion Λ": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Glassy_Minion_%CE%9B",
+    "type": "Metal"
+  },
+  "Primordial Dragon Z": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Primordial_Dragon_Z",
+    "type": "Other"
+  },
+  "Suoh Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Suoh_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Camellia Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Camellia_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Eileen Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Eileen_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Korin Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Korin_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Sh'berdan Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Sh%27berdan_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Daiana Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Daiana_%CE%9F",
+    "type": "Other",
+    "attribute": "Fire",
+    "omicron": true
+  },
+  "Bahamut Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Bahamut_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Leviathan Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Leviathan_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Odin Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Odin_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Mizell Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Mizell_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Amina Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Amina_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Burbaba Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Burbaba_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Kem Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Kem_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Spinetrich Kino Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Spinetrich_Kino_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Kraken Kino Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Kraken_Kino_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Tiamat Kino Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Tiamat_Kino_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Slugosaur Kino Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Slugosaur_Kino_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "8-Bit Spinetrich Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/8-Bit_Spinetrich_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "8-Bit Golem Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/8-Bit_Golem_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "8-Bit Orbling Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/8-Bit_Orbling_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "8-Bit Hiso Alien Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/8-Bit_Hiso_Alien_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "S'naip Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/S%27naip_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Senala Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Senala_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Unicorn": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Unicorn",
+    "type": "Other"
+  },
+  "Panda": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Panda",
+    "type": "Other"
+  },
+  "Bahl ΟⅢ": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Bahl_%CE%9F%E2%85%A2",
+    "type": "Sword",
+    "omicron": true
+  },
+  "Grace Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Grace_%CE%9F",
+    "type": "Bow",
+    "omicron": true
+  },
+  "Grace ΟⅢ": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Grace_%CE%9F%E2%85%A2",
+    "type": "Bow",
+    "omicron": true
+  },
+  "Lich Kino O": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Lich_Kino_O",
+    "type": "Other",
+    "attribute": "Darkness",
+    "omicron": true
+  },
+  "Lich Kino OⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Lich_Kino_O%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Marilith Kino O": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Marilith_Kino_O",
+    "type": "Other",
+    "attribute": "Remedy",
+    "omicron": true
+  },
+  "Marilith Kino OⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Marilith_Kino_O%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Mechanic Kino O": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Mechanic_Kino_O",
+    "type": "Other",
+    "omicron": true
+  },
+  "Mechanic Kino OⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Mechanic_Kino_O%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Grand Ragnarok": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Grand_Ragnarok",
+    "type": "Sword"
+  },
+  "Grand Rune": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Grand_Rune",
+    "type": "Spear"
+  },
+  "Holy Bow of Genji": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Holy_Bow_of_Genji",
+    "type": "Bow"
+  },
+  "Eternity Hourglass": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Eternity_Hourglass",
+    "type": "Other"
+  },
+  "Star Master": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Star_Master",
+    "type": "Sword"
+  },
+  "Suoh ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Suoh_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Camellia ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Camellia_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Sh'berdan ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Sh%27berdan_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Bahamut ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Bahamut_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Leviathan ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Leviathan_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Odin ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Odin_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Amina ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Amina_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Burbaba ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Burbaba_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Kem ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Kem_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Spinetrich Kino ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Spinetrich_Kino_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Slugosaur Kino ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Slugosaur_Kino_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "8-Bit Spinetrich ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/8-Bit_Spinetrich_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "8-Bit Golem ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/8-Bit_Golem_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "8-Bit Orbling ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/8-Bit_Orbling_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "S'naip ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/S%27naip_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Andelucia ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Andelucia_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Edg'low ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Edg%27low_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Zavison ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Zavison_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Sayu ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Sayu_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Schweiz ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Schweiz_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Peyrna ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Peyrna_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Beau'ne ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Beau%27ne_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Myne ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Myne_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Mogha ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Mogha_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Mizell ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Mizell_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Mizell ΟⅢ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Mizell_%CE%9F%E2%85%A2",
+    "type": "Other",
+    "attribute": "Non-elemental",
+    "omicron": true
+  },
+  "Mutoh ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Mutoh_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "8-Bit Hiso Alien ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/8-Bit_Hiso_Alien_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Tiamat Kino ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Tiamat_Kino_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Daiana ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Daiana_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Shin'en ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Shin%27en_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Korin ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Korin_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Kraken Kino ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Kraken_Kino_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Eileen ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Eileen_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Okklitot Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Okklitot_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Okklitot ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Okklitot_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Lacuma Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Lacuma_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Lacuma ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Lacuma_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Nia Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Nia_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Nia ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Nia_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Bahl Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Bahl_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Bahl ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Bahl_%CE%9F%E2%85%A1",
+    "type": "Sword",
+    "omicron": true
+  },
+  "Sha'plar Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Sha%27plar_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Sha'plar ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Sha%27plar_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "A'merpact Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/A%27merpact_%CE%9F",
+    "type": "Other",
+    "attribute": "Ice",
+    "omicron": true
+  },
+  "A'merpact ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/A%27merpact_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Ra'prow Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Ra%27prow_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Ra'prow ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Ra%27prow_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Lucia Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Lucia_%CE%9F",
+    "type": "Other",
+    "attribute": "Non-elemental",
+    "omicron": true
+  },
+  "Lucia ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Lucia_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Artemis": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Artemis_%28Companion%29",
+    "type": "Other"
+  },
+  "Chaos": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Chaos_%28Companion%29",
+    "type": "Other",
+    "attribute": "Darkness"
+  },
+  "King Orbling": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/King_Orbling_%28Companion%29",
+    "type": "Other",
+    "attribute": "Non-elemental"
+  },
+  "Valkyrie": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Valkyrie_%28Companion%29",
+    "type": "Other"
+  },
+  "Lamia": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Lamia_%28Companion%29",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Raijin": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Raijin_%28Companion%29",
+    "type": "Other",
+    "attribute": "Lightning"
+  },
+  "Phoenix": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Phoenix_%28Companion%29",
+    "type": "Other"
+  },
+  "Samatha": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Samatha_%28Companion%29",
+    "type": "Other"
+  },
+  "Yukken": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Yukken_%28Companion%29",
+    "type": "Other",
+    "attribute": "Remedy"
+  },
+  "Maverick★": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Maverick%E2%98%85",
+    "type": "Other"
+  },
+  "Spike★": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Spike%E2%98%85",
+    "type": "Other"
+  },
+  "Lewto Aura": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Lewto_Aura",
+    "type": "Other",
+    "attribute": "Fire"
+  },
+  "Piz'fer's Staff": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Piz%27fer%27s_Staff",
+    "type": "Staff",
+    "attribute": "Ice"
+  },
+  "Jennish's Staff": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Jennish%27s_Staff",
+    "type": "Staff",
+    "attribute": "Lightning"
+  },
+  "Zerro's Staff": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Zerro%27s_Staff",
+    "type": "Staff",
+    "attribute": "Darkness"
+  },
+  "Peyrna Sword": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Peyrna_Sword",
+    "type": "Sword"
+  },
+  "Gatz Machine": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Gatz_Machine",
+    "type": "Other"
+  },
+  "Schweiz Bow": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Schweiz_Bow",
+    "type": "Bow"
+  },
+  "Edg'low's Staff": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Edg%27low%27s_Staff",
+    "type": "Staff"
+  },
+  "Daybreak Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Daybreak_Shield",
+    "type": "Shield",
+    "attribute": "Photon"
+  },
+  "Tenebrous Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Tenebrous_Shield",
+    "type": "Shield",
+    "attribute": "Graviton"
+  },
+  "Echo Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Echo_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Grace ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Grace_%CE%9F%E2%85%A1",
+    "type": "Bow",
+    "omicron": true
+  },
+  "Bahamut": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Bahamut_%28Companion%29",
+    "type": "Other",
+    "attribute": "Fire"
+  },
+  "Bahamut Z": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Bahamut_Z",
+    "type": "Other",
+    "attribute": "Fire"
+  },
+  "Clara Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Clara_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Ella Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Ella_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Odin Kino Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Odin_Kino_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Odin Kino ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Odin_Kino_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Seiryu Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Seiryu_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Violet O": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Violet_O",
+    "type": "Other",
+    "omicron": true
+  },
+  "Scarlet O": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Scarlet_O",
+    "type": "Other",
+    "omicron": true
+  },
+  "Jade Dragon Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Jade_Dragon_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Nephrite Dragon Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Nephrite_Dragon_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Violet ΟⅢ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Violet_%CE%9F%E2%85%A2",
+    "type": "Other",
+    "omicron": true
+  },
+  "Scarlet ΟⅢ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Scarlet_%CE%9F%E2%85%A2",
+    "type": "Other",
+    "omicron": true
+  },
+  "Bahamut Kino O": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Bahamut_Kino_O",
+    "type": "Other",
+    "attribute": "Fire",
+    "omicron": true
+  },
+  "Bahamut Kino  ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Bahamut_Kino_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Leviathan Kino Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Leviathan_Kino_%CE%9F",
+    "type": "Other",
+    "attribute": "Ice",
+    "omicron": true
+  },
+  "Leviathan  Kino ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Leviathan_Kino_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Sasuke's Sword": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Sasuke%27s_Sword",
+    "type": "Sword",
+    "attribute": "Non-elemental"
+  },
+  "Warrior's Card": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Warrior%27s_Card",
+    "type": "Other"
+  },
+  "Knight's Card": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Knight%27s_Card",
+    "type": "Other"
+  },
+  "Onion Knight's Card": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Onion_Knight%27s_Card",
+    "type": "Other"
+  },
+  "Odin": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Odin_%28Companion%29",
+    "type": "Other"
+  },
+  "Odin Z": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Odin_Z",
+    "type": "Other"
+  },
+  "Pins": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Pins",
+    "type": "Other"
+  },
+  "Minidra": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Minidra",
+    "type": "Other"
+  },
+  "Kappa": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Kappa",
+    "type": "Other"
+  },
+  "Hiso God": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Hiso_God",
+    "type": "Other"
+  },
+  "Luckster": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Luckster",
+    "type": "Other"
+  },
+  "Ribbit'bit": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Ribbit%27bit",
+    "type": "Other"
+  },
+  "Baby Dragon Statue": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Baby_Dragon_Statue",
+    "type": "Other"
+  },
+  "Dragon Formula": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Dragon_Formula",
+    "type": "Other"
+  },
+  "Pixel Warrior": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Pixel_Warrior",
+    "type": "Other"
+  },
+  "Nazuna Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Nazuna_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Cactuar": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Cactuar",
+    "type": "Other"
+  },
+  "Chocobo": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Chocobo",
+    "type": "Other"
+  },
+  "Holy Breath": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Holy_Breath",
+    "type": "Other",
+    "attribute": "Photon"
+  },
+  "Axion Breath": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Axion_Breath",
+    "type": "Other",
+    "attribute": "Graviton"
+  },
+  "The Ancient Key": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/The_Ancient_Key",
+    "type": "Other"
+  },
+  "Leviathan": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Leviathan_%28Companion%29",
+    "type": "Other",
+    "attribute": "Ice"
+  },
+  "Leviathan Z": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Leviathan_Z",
+    "type": "Other",
+    "attribute": "Ice"
+  },
+  "Nazuna ΟⅢ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Nazuna_%CE%9F%E2%85%A2",
+    "type": "Other",
+    "omicron": true
+  },
+  "Feno Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Feno_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Hakann Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Hakann_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Marcus Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Marcus_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Ashe Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Ashe_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Dahlia Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Dahlia_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Scorch Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Scorch_Shield",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Scorch Shield v2": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Scorch_Shield_v2",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Lunacy Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Lunacy_Shield",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Lunacy Shield v2": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Lunacy_Shield_v2",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Sun King": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Sun_King",
+    "type": "Other",
+    "attribute": "Solar"
+  },
+  "Sun King Z": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Sun_King_Z",
+    "type": "Other",
+    "attribute": "Solar"
+  },
+  "Moon King": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Moon_King",
+    "type": "Other",
+    "attribute": "Lunar"
+  },
+  "Moon King Z": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Moon_King_Z",
+    "type": "Other",
+    "attribute": "Lunar"
+  },
+  "Tarantulia": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Tarantulia",
+    "type": "Other"
+  },
+  "Tronic Gal O": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Tronic_Gal_O",
+    "type": "Other",
+    "attribute": "Healing",
+    "omicron": true
+  },
+  "Ardent Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Ardent_Shield",
+    "type": "Shield",
+    "attribute": "Solar"
+  },
+  "Zen Shield": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Zen_Shield",
+    "type": "Shield",
+    "attribute": "Lunar"
+  },
+  "Royal Ringstone": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Royal_Ringstone",
+    "type": "Other"
+  },
+  "Tronic Gal": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Tronic_Gal_%28Companion%29",
+    "type": "Other"
+  },
+  "Golden Arachnobot O": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Golden_Arachnobot_O",
+    "type": "Other",
+    "omicron": true
+  },
+  "Apollo Cannon": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Apollo_Cannon",
+    "type": "Other",
+    "attribute": "Solar"
+  },
+  "Apollo Cannon Z": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Apollo_Cannon_Z",
+    "type": "Other",
+    "attribute": "Solar"
+  },
+  "Zaldor Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Zaldor_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Zaldor ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Zaldor_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Ginny Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Ginny_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Ginny ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Ginny_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Haggo Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Haggo_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Haggo ΟⅡ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Haggo_%CE%9F%E2%85%A1",
+    "type": "Other",
+    "omicron": true
+  },
+  "Ba'gunar Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Ba%27gunar_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Djugan Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Djugan_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Pahrl Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Pahrl_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Zafitte Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Zafitte_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Weighty Mirror": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Weighty_Mirror",
+    "type": "Other",
+    "attribute": "Graviton"
+  },
+  "Quyat": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Quyat",
+    "type": "Other",
+    "attribute": "Graviton"
+  },
+  "Light Mirror": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Light_Mirror",
+    "type": "Other",
+    "attribute": "Photon"
+  },
+  "Gatekeeper": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Gatekeeper",
+    "type": "Other",
+    "attribute": "Photon"
+  },
+  "Shining Mirror": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Shining_Mirror",
+    "type": "Other",
+    "attribute": "Solar"
+  },
+  "Garuda": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Garuda",
+    "type": "Other",
+    "attribute": "Solar"
+  },
+  "Tranquil Mirror": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Tranquil_Mirror",
+    "type": "Other",
+    "attribute": "Lunar"
+  },
+  "Apostolos": {
+    "rarity": "S",
+    "link": "https://terrabattle.fandom.com/wiki/Apostolos",
+    "type": "Other",
+    "attribute": "Lunar"
+  },
+  "Light of Vitality": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Light_of_Vitality",
+    "type": "Other"
+  },
+  "Light of Incantation": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Light_of_Incantation",
+    "type": "Other"
+  },
+  "Light of Protection": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Light_of_Protection",
+    "type": "Other"
+  },
+  "Debilitating Light": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Debilitating_Light",
+    "type": "Other"
+  },
+  "Purifying Light": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Purifying_Light",
+    "type": "Other"
+  },
+  "Piercing Light": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Piercing_Light",
+    "type": "Other"
+  },
+  "King's Shield v2": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/King%27s_Shield_v2",
+    "type": "Shield",
+    "attribute": "Remedy"
+  },
+  "Pavise of Genji": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Pavise_of_Genji",
+    "type": "Shield"
+  },
+  "Crystal Chest": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Crystal_Chest",
+    "type": "Other"
+  },
+  "Crystal Set": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Crystal_Set",
+    "type": "Other"
+  },
+  "Vermilion Shield": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Vermilion_Shield",
+    "type": "Shield",
+    "attribute": "Solar"
+  },
+  "Cobalt Shield": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Cobalt_Shield",
+    "type": "Shield",
+    "attribute": "Lunar"
+  },
+  "Beam Shield": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Beam_Shield",
+    "type": "Shield",
+    "attribute": "Photon"
+  },
+  "Torpid Shield": {
+    "rarity": "A",
+    "link": "https://terrabattle.fandom.com/wiki/Torpid_Shield",
+    "type": "Shield",
+    "attribute": "Graviton"
+  },
+  "Selene": {
+    "rarity": "SS",
+    "link": "https://terrabattle.fandom.com/wiki/Selene_%28Companion%29",
+    "type": "Other",
+    "attribute": "Lunar"
+  },
+  "Selene Z": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Selene_Z",
+    "type": "Other",
+    "attribute": "Lunar"
+  },
+  "Renova O": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Renova_O",
+    "type": "Other"
+  },
+  "Varve O": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Varve_O",
+    "type": "Other",
+    "omicron": true
+  },
+  "Lio O": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Lio_O",
+    "type": "Other",
+    "omicron": true
+  },
+  "Gigojago Ο": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Gigojago_%CE%9F",
+    "type": "Other",
+    "omicron": true
+  },
+  "Sh'berdan ΟⅢ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Sh%27berdan_%CE%9F%E2%85%A2",
+    "type": "Other",
+    "omicron": true
+  },
+  "Ra'prow ΟⅢ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Ra%27prow_%CE%9F%E2%85%A2",
+    "type": "Other",
+    "omicron": true
+  },
+  "Ma'curi ΟⅢ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Ma%27curi_%CE%9F%E2%85%A2",
+    "type": "Other",
+    "omicron": true
+  },
+  "Amimari ΟⅢ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Amimari_%CE%9F%E2%85%A2",
+    "type": "Other",
+    "omicron": true
+  },
+  "Gegonago ΟⅢ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Gegonago_%CE%9F%E2%85%A2",
+    "type": "Other",
+    "omicron": true
+  },
+  "Zuzu ΟⅢ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Zuzu_%CE%9F%E2%85%A2",
+    "type": "Other",
+    "omicron": true
+  },
+  "Ellvern ΟⅢ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Ellvern_%CE%9F%E2%85%A2",
+    "type": "Other",
+    "omicron": true
+  },
+  "Harold ΟⅢ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Harold_%CE%9F%E2%85%A2",
+    "type": "Other",
+    "omicron": true
+  },
+  "Yukken ΟⅢ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Yukken_%CE%9F%E2%85%A2",
+    "type": "Other",
+    "omicron": true
+  },
+  "Rikken ΟⅢ": {
+    "rarity": "Z",
+    "link": "https://terrabattle.fandom.com/wiki/Rikken_%CE%9F%E2%85%A2",
+    "type": "Other",
+    "omicron": true
+  }
+}

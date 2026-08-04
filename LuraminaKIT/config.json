@@ -1,0 +1,21 @@
+{
+    "bot_params":{
+        "bot_name": "LuraminaKIT",
+        "activities": [],
+        "cmd_prefix": "!",
+        "modules_base_route": "http://127.0.0.1",
+        "modules_api_routes": "/url-list"
+    },
+    "modules": [
+        {
+            "name": "anyquotes",
+            "port": 8001,
+            "prefix": "/api/anyquotes"
+        },
+        {
+            "name": "tb1",
+            "port": 8002,
+            "prefix": "/api/tb1"
+        }
+    ]
+}
