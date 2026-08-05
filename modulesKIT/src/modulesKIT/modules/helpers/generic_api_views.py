@@ -54,7 +54,7 @@ class GenericViews:
                   description: str = '', response_model: type[BaseModel] | None = None,
                   params: list[ParamDescriptor] | None = None,
                   aliases: list[str] | None = None, name: str | None = None,
-                  attachment_paths: list[str] | None = None) -> None:
+                  attachment_paths: list[str] | None = None, timeout: float = 5.0) -> None:
         """Register a route on the module's router and record it for `/url-list` advertisement.
 
         Kept as an explicit declaration (rather than introspecting FastAPI's route/dependant
@@ -82,6 +82,10 @@ class GenericViews:
                 itself (raw bytes don't fit `StandardResponse[T]`) -- register them
                 separately on `self.api_router` and pass their paths here so
                 LuraminaKIT knows to fetch and attach them.
+            timeout: Seconds LuraminaKIT should wait for this route to respond
+                before giving up. Defaults to a fast 5s; raise it for a route
+                that's genuinely slow by nature (e.g. an LLM completion) rather
+                than making every other, normally-fast command wait as long.
 
         Raises:
             ValueError: If a dotted command name/alias doesn't start with this
@@ -126,7 +130,8 @@ class GenericViews:
                                             query_params=final_params,
                                             response_model=str(response_model) if response_model else None,
                                             aliases=aliases or [],
-                                            attachment_paths=attachment_paths or []))
+                                            attachment_paths=attachment_paths or [],
+                                            timeout=timeout))
 
     async def get_all_urls(self) -> StandardResponse[ModuleManifest]:
         """Advertise every route registered via `add_route`.

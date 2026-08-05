@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """Module self-description: what a modulesKIT module advertises at its `/url-list` route."""
 
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 
 class ParamDescriptor(BaseModel):
@@ -42,6 +42,12 @@ class RouteDescriptor(BaseModel):
             callers need to prepend that themselves (see
             `command_dispatch.fetch_attachments`). Empty means no attachments --
             LuraminaKIT sends the command's text response only.
+        timeout: Seconds LuraminaKIT should wait for this route to respond
+            before giving up. Every route defaults to a fast 5s -- a route that
+            genuinely needs longer (e.g. an LLM completion) can advertise its
+            own higher value via `add_route(..., timeout=...)` without raising
+            the timeout for every other, normally-fast command too. Capped at
+            120s so a misconfigured module can't hang a command indefinitely.
     """
 
     path: str
@@ -52,6 +58,7 @@ class RouteDescriptor(BaseModel):
     response_model: str | None = None
     aliases: list[str] = []
     attachment_paths: list[str] = []
+    timeout: float = Field(default=5.0, gt=0, le=120)
 
 
 class CategoryHelp(BaseModel):

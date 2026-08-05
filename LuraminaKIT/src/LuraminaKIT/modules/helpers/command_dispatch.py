@@ -88,9 +88,13 @@ def build_commands(port: int, manifest: ModuleManifest) -> dict[str, CommandEntr
     commands: dict[str, CommandEntry] = {}
 
     for route in manifest.routes:
-        entry = CommandEntry(port=port, module_name=manifest.module_name,
-                             module_description=manifest.description,
-                             category_help=manifest.category_help, **route.model_dump())
+        entry = CommandEntry.model_validate({
+            'port': port,
+            'module_name': manifest.module_name,
+            'module_description': manifest.description,
+            'category_help': manifest.category_help,
+            **route.model_dump(),
+        })
 
         for key in (route.name, *route.aliases):
             if key in commands:
@@ -490,7 +494,7 @@ async def process_command(session: aiohttp.ClientSession, base_route: str, comma
                                                 command_params)))
         api_route = f"{api_route}?{query}"
 
-    resp = await req_mngr.request(session, api_route)
+    resp = await req_mngr.request(session, api_route, timeout=command.timeout)
 
     if resp.status != StatusFunction.SUCCESS:
         logger.error("Module %s: %s", command.name, resp.error)
@@ -519,7 +523,7 @@ async def fetch_attachments(session: aiohttp.ClientSession, base_route: str,
 
     for attachment_path in command.attachment_paths:
         api_route = f"{base_route}:{command.port}/api/{command.module_name}{attachment_path}"
-        fetched = await req_mngr.request_bytes(session, api_route)
+        fetched = await req_mngr.request_bytes(session, api_route, timeout=command.timeout)
         if fetched is not None:
             results.append(fetched)
 

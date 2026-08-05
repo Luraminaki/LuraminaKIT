@@ -94,7 +94,7 @@ async def request_bytes(session: aiohttp.ClientSession, api_route: str, timeout:
 
 
 async def request(session: aiohttp.ClientSession, api_route: str, header: HeaderType = HeaderType.DEFAULT,
-                  cookies: dict[str, str] | None = None) -> StandardResponse[object]:
+                  cookies: dict[str, str] | None = None, timeout: float = 5) -> StandardResponse[object]:
     """Issue a GET request against a modulesKIT route and parse its response.
 
     Args:
@@ -104,6 +104,8 @@ async def request(session: aiohttp.ClientSession, api_route: str, header: Header
         api_route: Full URL to request.
         header: Which header set to send.
         cookies: Cookies to send, if any.
+        timeout: Request timeout in seconds -- see `contractsKIT.RouteDescriptor.timeout`
+            for why this isn't just a fixed value.
 
     Returns:
         The parsed `StandardResponse`, or a failed one if the request raised.
@@ -114,7 +116,7 @@ async def request(session: aiohttp.ClientSession, api_route: str, header: Header
     head = set_headers(header)
 
     try:
-        async with session.get(api_route, headers=head, cookies=cookies, timeout=aiohttp.ClientTimeout(5)) as response:
+        async with session.get(api_route, headers=head, cookies=cookies, timeout=aiohttp.ClientTimeout(timeout)) as response:
             if response.status != 200:
                 logger.error("Request failed: %s -- HTTP %s", api_route, response.status)
                 return StandardResponse[object].fail(f"HTTP {response.status}")
