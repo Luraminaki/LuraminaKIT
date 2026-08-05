@@ -469,6 +469,41 @@ def build_status_text(guild_count: int, commands_run: int, uptime_seconds: float
                       f"- Memory usage: {memory_mb:.1f} MB"])
 
 
+def _match_params(query_params: list[ParamDescriptor], command_params: list[str]) -> dict[str, str]:
+    """Match user-typed words to a command's declared params, positionally --
+    except the *last* declared param, which absorbs every remaining word
+    (rejoined with single spaces) instead of only the next one.
+
+    Without this, a plain `zip()` silently truncates any free-text param to
+    its first word: `!tb1.char Jade Dragon` would send only `query=Jade`,
+    quietly dropping "Dragon" -- broken for every multi-word lookup
+    (`tb1.char`/`tb1.mon`/`tb1.item`/`tb1.buddy`/`tb1.search`) today, and a
+    hard blocker for anything that takes a genuine free-text sentence (e.g.
+    a future LLM prompt).
+
+    Args:
+        query_params: The command's declared params, in positional order.
+        command_params: Words typed by the user after the command name.
+
+    Returns:
+        Param name -> matched value. Fewer typed words than params leaves the
+        trailing params unset entirely (unchanged from the old behavior) --
+        the modulesKIT route's own validation reports that as a real error.
+    """
+    matched: dict[str, str] = {}
+    last_index = len(query_params) - 1
+
+    for index, param in enumerate(query_params):
+        if index >= len(command_params):
+            break
+        if index == last_index:
+            matched[param.name] = ' '.join(command_params[index:])
+        else:
+            matched[param.name] = command_params[index]
+
+    return matched
+
+
 async def process_command(session: aiohttp.ClientSession, base_route: str, command: CommandEntry,
                           command_params: list[str]) -> str:
     """Call a discovered command's route, forwarding any user-supplied arguments.
@@ -490,9 +525,9 @@ async def process_command(session: aiohttp.ClientSession, base_route: str, comma
     api_route: str = f"{base_route}:{command.port}{command.path}"
 
     if command.query_params and command_params:
-        query = urllib.parse.urlencode(dict(zip((param.name for param in command.query_params),
-                                                command_params)))
-        api_route = f"{api_route}?{query}"
+        matched = _match_params(command.query_params, command_params)
+        if matched:
+            api_route = f"{api_route}?{urllib.parse.urlencode(matched)}"
 
     resp = await req_mngr.request(session, api_route, timeout=command.timeout)
 

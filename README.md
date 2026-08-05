@@ -3,7 +3,7 @@
 A small monorepo for a fun Discord bot, split into independently-versioned projects:
 
 - [`contractsKIT`](contractsKIT) — shared pydantic contracts (`StandardResponse`, module manifests, rotating-log setup) that let the other two projects agree on a wire format without hard-coding each other's internals. See [`contractsKIT/README.md`](contractsKIT/README.md).
-- [`modulesKIT`](modulesKIT) — one small FastAPI service per bot "module" (`anyquotes`, `tb1`), each advertising its own routes so the bot can discover them at runtime. See [`modulesKIT/README.md`](modulesKIT/README.md).
+- [`modulesKIT`](modulesKIT) — one small FastAPI service per bot "module" (`anyquotes`, `tb1`, `llm`), each advertising its own routes so the bot can discover them at runtime. See [`modulesKIT/README.md`](modulesKIT/README.md).
 - [`LuraminaKIT`](LuraminaKIT) — the Discord bot itself: discovers modulesKIT modules on startup and proxies matching messages to them over HTTP. See [`LuraminaKIT/README.md`](LuraminaKIT/README.md).
 
 It's still a "work in progress" as of now... And there is a lot of room for improvement.

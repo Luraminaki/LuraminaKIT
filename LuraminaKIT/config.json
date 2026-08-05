@@ -16,6 +16,11 @@
             "name": "tb1",
             "port": 8002,
             "prefix": "/api/tb1"
+        },
+        {
+            "name": "llm",
+            "port": 8003,
+            "prefix": "/api/llm"
         }
     ]
 }

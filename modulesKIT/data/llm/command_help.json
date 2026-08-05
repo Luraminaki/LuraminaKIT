@@ -1,0 +1,8 @@
+{
+  "llm.chat": {
+    "summary": "Sends a message to a locally-running language model and replies with its completion. Needs a completion server (e.g. llama.cpp's llama-server) running and reachable at this module's configured base_url -- the module itself never loads a model.",
+    "params": {
+      "prompt": "Your message to the model. Everything you type after the command name is sent as-is, not just the first word."
+    }
+  }
+}

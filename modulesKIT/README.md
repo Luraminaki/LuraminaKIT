@@ -14,6 +14,7 @@ Each module has its own doc under [`docs/`](docs) — routes, config, data files
 
 - [**anyquotes**](docs/anyquotes.md) (`main_anyquotes.py`, port `8001`) — random quotes from CSV files, rendered through a configurable template.
 - [**tb1**](docs/tb1.md) (`main_tb1.py`, port `8002`) — Terra Battle 1 companion: pact roll simulator, daily quest forecast, event info.
+- [**llm**](docs/llm.md) (`main_llm.py`, port `8003`, `auto_start: false`) — chat completions via a locally-running OpenAI-compatible completion server (e.g. llama.cpp's `llama-server`); needs that server running separately, this module never loads a model itself.
 
 ## INSTALLATION
 

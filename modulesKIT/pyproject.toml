@@ -13,6 +13,7 @@ dependencies = [
     "fastapi-cli",
     "uvicorn",
     "pydantic",
+    "aiohttp",  # llm module's outbound client to a local OpenAI-compatible completion server
     # 'contractsKIT' is a sibling project in this monorepo, not a portable PEP 621
     # dependency -- install it editable alongside this package instead.
 ]
