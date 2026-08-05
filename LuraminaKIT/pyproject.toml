@@ -15,6 +15,16 @@ dependencies = [
     "python-dotenv",
     "langchain-text-splitters",
     "psutil",
+    # PyPI package is 'nvidia-ml-py' (the actively-maintained, official Nvidia one)
+    # but it's imported as `pynvml` -- used for `/status`'s GPU readings, and safe
+    # to install even without an Nvidia card present: `nvmlInit()` just fails
+    # gracefully at runtime instead (see `modules.helpers.host_metrics`).
+    "nvidia-ml-py",
+    # PyPI package is 'py-cpuinfo' but it's imported as `cpuinfo` -- used for
+    # `/status`'s CPU brand string (its own cross-platform detection is far less
+    # code than hand-rolling a Windows registry read + /proc/cpuinfo parse + a
+    # macOS sysctl call ourselves).
+    "py-cpuinfo",
     # 'contractsKIT' is a sibling project in this monorepo, not a portable PEP 621
     # dependency -- install it editable alongside this package instead.
 ]

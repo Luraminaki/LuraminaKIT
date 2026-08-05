@@ -18,14 +18,14 @@ import psutil
 from discord import app_commands
 
 from contractsKIT import StatusFunction, ModuleManifest
-from LuraminaKIT.modules.helpers import req_mngr
+from LuraminaKIT.modules.helpers import req_mngr, host_metrics
 from LuraminaKIT.modules.helpers.settings import Settings
 from LuraminaKIT.modules.helpers.message_chunking import chunk_message
 from LuraminaKIT.modules.helpers.command_dispatch import (
     CommandEntry,
     build_commands,
     build_help_text,
-    build_status_text,
+    build_status_embed,
     fetch_attachments,
     log_message,
     parse_command,
@@ -105,12 +105,21 @@ class DiscordClient(discord.Client):
         async def slash_help(interaction: discord.Interaction, path: str = '') -> None:
             await self._send_interaction(interaction, build_help_text(self.commands, self.prefix, path.lower()))
 
-        @self.tree.command(name='status', description="Show uptime, commands run, memory usage, and server count.")
+        @self.tree.command(name='status', description="Show uptime, commands run, memory/CPU/GPU usage, and server count.")
         async def slash_status(interaction: discord.Interaction) -> None:
             uptime_seconds = time.monotonic() - self.start_time
             memory_mb = psutil.Process().memory_info().rss / (1024 * 1024)
-            await self._send_interaction(interaction,
-                                         build_status_text(len(self.guilds), self.commands_run, uptime_seconds, memory_mb))
+            hardware = host_metrics.static_hardware_info()
+            cpu_percent = host_metrics.cpu_load_percent()
+            cpu_temp = host_metrics.cpu_temp_celsius()
+            amd_gpu_temp = host_metrics.amd_gpu_temp_celsius()
+            gpu_metrics = host_metrics.nvidia_gpu_metrics()
+            # `/status` never needs chunking (it's always one bounded embed) --
+            # send directly rather than through `_send_interaction`, which is
+            # built for the arbitrarily-long plain-text replies `/help` produces.
+            embed = build_status_embed(len(self.guilds), self.commands_run, uptime_seconds, memory_mb,
+                                       hardware, cpu_percent, cpu_temp, amd_gpu_temp, gpu_metrics)
+            _ = await interaction.response.send_message(embed=embed)
 
         @self.tree.command(name='reload', description="Re-poll every configured module for new/changed commands.")
         async def slash_reload(interaction: discord.Interaction) -> None:
@@ -211,6 +220,7 @@ class DiscordClient(discord.Client):
         """Open the shared HTTP session, record startup state, and start the presence task."""
         self.http_session = aiohttp.ClientSession()
         self.start_time = time.monotonic()
+        host_metrics.prime_cpu_load()
 
         app_info = await self.application_info()
         self.owner_id = app_info.owner.id
