@@ -116,7 +116,7 @@ Add an entry under `modules`, picking a free port:
 }
 ```
 
-If your module needs its own settings (like `anyquotes`'s quote template), put them under a `datas` key — it's a free-form `dict[str, str]` your module reads however it likes.
+If your module needs its own settings (like `anyquotes`'s quote template), put them under a `data` key — it's a free-form `dict[str, str]` your module reads however it likes.
 
 By default the repo-root [`run.py`](../run.py) launcher starts every module it finds here (`auto_start` defaults to `true`). Set `"auto_start": false` on your entry if it's too heavy to want running automatically (e.g. on weaker hardware) — it still runs fine started directly via its own `main_<name>.py`, this flag only affects `run.py`'s discovery.
 

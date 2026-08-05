@@ -25,7 +25,7 @@ class ModuleConfig(BaseModel):
     Attributes:
         port: TCP port the module's FastAPI app listens on.
         description: Human-readable description, used as the app's OpenAPI description.
-        datas: Free-form module-specific settings (e.g. a quote template string).
+        data: Free-form module-specific settings (e.g. a quote template string).
         auto_start: Whether the repo-root `run.py` launcher should start this
             module. Defaults to `True`; set to `False` for a module too heavy to
             want running by default (e.g. on weaker hardware). Only consulted by
@@ -35,7 +35,7 @@ class ModuleConfig(BaseModel):
 
     port: int
     description: str = ''
-    datas: dict[str, str] = {}
+    data: dict[str, str] = {}
     auto_start: bool = True
 
 

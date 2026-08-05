@@ -12,7 +12,7 @@ If you haven't set up the project yet, see [`INSTALL.md`](INSTALL.md) first.
 
 ## Before changing anything here, ask
 
-**Is this actually a shared-contract change, or module-specific?** If only one module needs a new field, it usually belongs in that module's own config/response model (see `modulesKIT`'s `ModuleConfig.datas: dict[str, str]` free-form bucket), not here. Add to `contractsKIT` only when both modulesKIT *and* LuraminaKIT genuinely need to agree on the new shape.
+**Is this actually a shared-contract change, or module-specific?** If only one module needs a new field, it usually belongs in that module's own config/response model (see `modulesKIT`'s `ModuleConfig.data: dict[str, str]` free-form bucket), not here. Add to `contractsKIT` only when both modulesKIT *and* LuraminaKIT genuinely need to agree on the new shape.
 
 ## Adding a field
 

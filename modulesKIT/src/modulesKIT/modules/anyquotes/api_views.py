@@ -39,7 +39,7 @@ class QuotesView(generic_api_views.GenericViews):
                        self.quote,
                        methods=['GET'],
                        response_model=StandardResponse[str],
-                       description=f"Picks a random quote from the {', '.join(file.stem for file in self.aq.q_datas)} file(s) available")
+                       description=f"Picks a random quote from the {', '.join(file.stem for file in self.aq.q_data)} file(s) available")
 
     async def quote(self) -> StandardResponse[str]:
         """Return a random quote.

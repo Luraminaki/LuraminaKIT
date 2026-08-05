@@ -5,7 +5,7 @@ Picks a random quote from CSV files and renders it through a configurable templa
 - **Launcher**: `main_anyquotes.py`
 - **Default port**: `8001`
 - **Data**: `data/anyquotes/*.csv` — semicolon-delimited, one quote per line. Any columns beyond `QUOTE`/`AUTHOR` are ignored (e.g. `FamousQuotes.csv`'s `GENRE` column), see `anyquotes.Quote`. Every `*.csv` file under the module's data folder is indexed at startup; add a new file to add a new source, no code changes needed.
-- **Config** (`modulesKIT/config.json`, under `modules.anyquotes.datas`):
+- **Config** (`modulesKIT/config.json`, under `modules.anyquotes.data`):
   - `template` — the quote's render template. `<quote>`, `<author>`, and `<source_file>` (the CSV's filename stem) are substituted in.
 
 ## Routes / Discord commands

@@ -79,11 +79,11 @@ class AnyQuotes:
             raise ValueError(f"{self.__class__.__name__} -- Invalid module_name configuration file provided -- {module_name} : {modules_config}")
 
         self.module_name: str = module_name
-        self.module_datas: dict[str, str] = modules_config.modules[self.module_name].datas
+        self.module_data: dict[str, str] = modules_config.modules[self.module_name].data
 
         data_path: pathlib.Path = pathlib.Path(modules_config.directories.data_directory) / self.module_name
         input_files: Generator[pathlib.Path] = data_path.glob('*.csv', case_sensitive=False)
-        self.q_datas: dict[pathlib.Path, QuoteFileInfo] = {}
+        self.q_data: dict[pathlib.Path, QuoteFileInfo] = {}
 
         for q_file in input_files:
             nbr_lines: int = 0
@@ -103,7 +103,7 @@ class AnyQuotes:
 
             nbr_lines -= 1  # exclude the header row counted above
 
-            self.q_datas[q_file] = QuoteFileInfo(nbr_lines=nbr_lines, header=header)
+            self.q_data[q_file] = QuoteFileInfo(nbr_lines=nbr_lines, header=header)
 
     def pretty_quote(self, source_file: str, data_quote: Quote) -> str:
         """Render `data_quote` through this module's configured template.
@@ -115,7 +115,7 @@ class AnyQuotes:
         Returns:
             The rendered quote string.
         """
-        template: str = self.module_datas.get('template', '')
+        template: str = self.module_data.get('template', '')
         return (template.replace('<quote>', '\n- '.join(unidecode.unidecode(data_quote.quote).split(' - ')))
                         .replace('<author>', unidecode.unidecode(data_quote.author))
                         .replace('<source_file>', unidecode.unidecode(source_file)))
@@ -126,11 +126,11 @@ class AnyQuotes:
         Returns:
             The rendered quote, or `''` if no quote file is available.
         """
-        if not self.q_datas:
+        if not self.q_data:
             logger.warning("Quote file folder is either empty or failed to be loaded")
             return ''
 
-        q_file, q_details = random.choice(list(self.q_datas.items()))
+        q_file, q_details = random.choice(list(self.q_data.items()))
         # `linecache` is 1-based over the raw file, where line 1 is always the
         # header (excluded from `nbr_lines`) -- draw from [2, nbr_lines + 1] to
         # land only on real data rows.

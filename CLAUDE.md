@@ -7,7 +7,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 A monorepo for a Discord bot, split into three independently-versioned Python packages, each with its own `pyproject.toml`/`README.md`/`HOWTO.md`/`INSTALL.md`:
 
 - **`contractsKIT`** — shared pydantic contracts (`StandardResponse[T]`, `ModuleManifest`/`RouteDescriptor`/`ParamDescriptor`, rotating-log setup). No launcher of its own.
-- **`modulesKIT`** — one small FastAPI service per bot "module" (currently `anyquotes`, `tb1`), each its own process, each advertising its own routes at `/api/<module>/url-list`.
+- **`modulesKIT`** — one small FastAPI service per bot "module" (currently `anyquotes`, `tb1`, `llm`), each its own process, each advertising its own routes at `/api/<module>/url-list`.
 - **`LuraminaKIT`** — the Discord bot itself: discovers modulesKIT modules at startup over HTTP and proxies matching messages to them. Never hard-codes a module's routes.
 
 ```
@@ -77,7 +77,7 @@ The established pattern for anything with more than a handful of entries is a JS
 
 ### Config split
 
-Two separate `config.json` files that look similar but serve different purposes: `modulesKIT/config.json` configures how each module *runs* (port, description, `auto_start`, per-module `datas`); `LuraminaKIT/config.json` configures what LuraminaKIT *polls* (name/port/prefix per module it should discover). They must stay in sync by hand when adding a module (`modulesKIT/HOWTO.md` walks through both).
+Two separate `config.json` files that look similar but serve different purposes: `modulesKIT/config.json` configures how each module *runs* (port, description, `auto_start`, per-module `data`); `LuraminaKIT/config.json` configures what LuraminaKIT *polls* (name/port/prefix per module it should discover). They must stay in sync by hand when adding a module (`modulesKIT/HOWTO.md` walks through both).
 
 ### Everything is a live-restart, not a hot-reload
 

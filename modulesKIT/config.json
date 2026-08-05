@@ -8,7 +8,7 @@
             "port": 8001,
             "description": "Simple module that sends random quotes on demand...",
             "auto_start": true,
-            "datas": {
+            "data": {
                 "template": "```<quote>\n> <author>```**<source_file>**"
             }
         },
