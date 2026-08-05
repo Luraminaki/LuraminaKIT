@@ -21,7 +21,7 @@ Other things worth knowing:
 - A single shared `aiohttp.ClientSession` (`DiscordClient.http_session`) is used for every HTTP call to every module for the process's whole life, rather than opening a new one per request.
 - Only one LuraminaKIT process can hold the same Discord token at a time — a PID-file lock (`modules/helpers/singleton_lock.py`) makes a second instance abort loudly on startup instead of both silently receiving and double-handling every Discord message.
 
-The parsing/dispatch/logging logic for the `!`-prefixed path lives in `modules/helpers/command_dispatch.py`, kept separate from `modules/clients/discord_client.py`, which wires Discord's event hooks (both the message-based and slash-command ones) to that logic and performs the actual Discord API calls.
+The parsing/discovery/dispatch/logging logic for the `!`-prefixed path lives in a handful of `modules/helpers/command_*.py` files (`command_discovery.py`, `command_dispatch.py`, `command_help.py`), plus `status_embed.py` for `/status`'s own reply -- all kept separate from `modules/clients/discord_client.py`, which wires Discord's event hooks (both the message-based and slash-command ones) to that logic and performs the actual Discord API calls.
 
 ## INSTALLATION
 

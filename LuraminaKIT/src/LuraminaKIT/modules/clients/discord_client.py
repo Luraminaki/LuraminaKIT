@@ -21,17 +21,10 @@ from contractsKIT import StatusFunction, ModuleManifest
 from LuraminaKIT.modules.helpers import req_mngr, host_metrics
 from LuraminaKIT.modules.helpers.settings import Settings
 from LuraminaKIT.modules.helpers.message_chunking import chunk_message
-from LuraminaKIT.modules.helpers.command_dispatch import (
-    CommandEntry,
-    build_commands,
-    build_help_text,
-    build_status_embed,
-    fetch_attachments,
-    log_message,
-    parse_command,
-    process_command,
-    suggest_command,
-)
+from LuraminaKIT.modules.helpers.command_discovery import CommandEntry, build_commands, log_message, parse_command
+from LuraminaKIT.modules.helpers.command_dispatch import fetch_attachments, process_command
+from LuraminaKIT.modules.helpers.command_help import build_help_text, suggest_command
+from LuraminaKIT.modules.helpers.status_embed import build_status_embed
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
@@ -40,10 +33,12 @@ logger.setLevel(logging.INFO)
 class DiscordClient(discord.Client):
     """Discord client that discovers modulesKIT commands and proxies messages to them.
 
-    The "intelligence" behind each event (parsing, logging, dispatching, calling a
-    module) lives in `modules.helpers.command_dispatch` and `.message_chunking` — this
-    class only wires Discord's event hooks to that logic and performs the actual
-    Discord API calls (typing indicator, sending messages).
+    The "intelligence" behind each event (parsing/discovery, dispatching, `/help`
+    and `/status` rendering, message chunking) lives in `modules.helpers`'
+    `command_discovery`/`command_dispatch`/`command_help`/`status_embed`/
+    `message_chunking` — this class only wires Discord's event hooks to that
+    logic and performs the actual Discord API calls (typing indicator, sending
+    messages).
     """
 
     bg_task: asyncio.Task[None] | None = None

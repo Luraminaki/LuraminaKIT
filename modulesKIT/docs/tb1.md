@@ -65,7 +65,7 @@ same-named bosses across different families (e.g. `tb1.8b.spinetrich` vs.
 `tb1.kino.spinetrich` are two distinct commands). A name/alias that collides with
 one already claimed (within this module, or against another module's) is logged
 and skipped rather than silently shadowing the earlier registration — see
-`command_dispatch.build_commands` / `discord_client.get_modules`. `/help
+`command_discovery.build_commands` / `discord_client.get_modules`. `/help
 path:<alias>` (e.g. `/help path:tb1.r`) resolves to the same entry `/help
 path:<canonical name>` would, not a "not found" -- `build_help_text` resolves
 through `commands`, which is keyed by every name *and* alias.

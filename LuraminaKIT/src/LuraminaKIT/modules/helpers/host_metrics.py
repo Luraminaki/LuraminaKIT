@@ -6,7 +6,7 @@ Every reading here degrades to `None`/`[]` rather than raising, on whatever
 sensor/vendor combination the machine running LuraminaKIT doesn't have --
 `psutil` implements no temperature sensors at all on Windows, a headless
 server has no GPU, and this repo's own dev machine has neither. The
-`/status` renderer (`command_dispatch.build_status_embed`) simply omits a
+`/status` renderer (`status_embed.build_status_embed`) simply omits a
 line whose value came back `None`/empty, rather than printing "N/A".
 
 @author: Luraminaki
